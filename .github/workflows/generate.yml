@@ -9,7 +9,8 @@ jobs:
     name: "Generate site"
     runs-on: ubuntu-latest
     steps: 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      
       - name: "Generate static HTML"
         uses: estebanlm/foliage-action@main
         with:
