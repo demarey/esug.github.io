@@ -1,3 +1,6 @@
+title: ESUG 
+layout: index 
+publishDate: 2023-09-20
 
 <div class="row">
 <div class="col-8">
