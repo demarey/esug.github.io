@@ -1,6 +1,6 @@
+---
 title: ESUG 
-layout: index 
-publishDate: 2023-09-20
+---
 
 <div class="row">
 <div class="col-8">
@@ -38,9 +38,9 @@ ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
 - Slides in the [ESUG Archive](http://esug.org/data/ESUG2022/)
 - Slides on [Slideshare](https://www.slideshare.net/esug/presentations)
 - Videos on Youtube 
--- [Main Conference](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt)
--- [Show us your Project](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq)
-- IWST Proceedings at *https://ceur-ws.org/Vol-3325/*
+  - [Main Conference](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt)
+  - [Show us your Project](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq)
+- IWST Proceedings at [https://ceur-ws.org/Vol-3325/](https://ceur-ws.org/Vol-3325/)
 
 
 ### ESUG19: Videos and Slides
@@ -61,7 +61,7 @@ The Slides and Videos for ESUG19 are finally online:
 #
 
 <div class="col-4 boxes">
-[Support ESUG actions! Become a Sponsor!](become_sponsor.pillar)
+[Support ESUG actions! Become a Sponsor!](become_sponsor.html)
 <center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
