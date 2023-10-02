@@ -1,14 +1,14 @@
-{
-"title": "Student Volunteers"
-}
+---
+title: Student Volunteers
+---
 
-!Call for Student Volunteers
+# Call for Student Volunteers
 
 Student volunteers help the conference running smoothly; in return, they have free accommodations, while still having most of the time to enjoy the conference.
 
-""Pay attention:"" the places are limited so do not wait till the last minute to apply.
+**Pay attention:** the places are limited so do not wait till the last minute to apply.
 
-!! Conference details:
+## Conference details:
 
 Send an email to stephane.ducasse at inria.fr and with:
 
@@ -25,15 +25,15 @@ ESUG right after the presentation is given, being present at an information desk
 volunteering makes the conference better, takes a fairly small amount of time and doesn't significantly interfere with enjoying and learning 
 from the conference. Please Note, this role requires discipline and constant attention to all attendees.
 
-!!! Information about hotel
+### Information about hotel
 
 Student Volunteer rooms are booked at the following hotel
 
-[[[
+```
 Hotel du Helder
 38, rue de Marseille
 Lyon, France
-]]]
+```
 
 To go from hotel to conference:
 - Take tram T2 from "Centre Berthelot — Sciences Po Lyon", direction "Saint-Priest Bel Air"

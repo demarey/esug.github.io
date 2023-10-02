@@ -1,7 +1,7 @@
-! Using system-level tools to debug smalltalk systems
+# Using system-level tools to debug smalltalk systems
 
 Jan Vrany (jan.vrany@fit.cvut.cz)
-""Abstract: "" Smalltalk environments are traditionally praised for their debugging
+**Abstract: ** Smalltalk environments are traditionally praised for their debugging
 features based on runtime reflection. However, some kinds of problems
 are difficult - if not impossible - to debug using traditional malltalk
 in-process tools such as debuggers or inspectors. To name some: crashes
@@ -11,7 +11,7 @@ In this talk I'll demonstrate that using system-level tools such as GDB
 to debug smalltalk may be as easy as using traditional smalltalk in-
 process debugger. Maybe even easier...
 
-""Bio:"" Jan Vrany is a Smalltalk enthusiast since his university studies.
+**Bio:** Jan Vrany is a Smalltalk enthusiast since his university studies.
 Since the very beginning he's using Smalltalk/X for all his development
 and research. Computer-wise, his primary interests are programming
 languages, virtual machines and multi-language programming

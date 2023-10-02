@@ -1,9 +1,9 @@
-! Code instrumentation and the pitfalls of abstraction
+# Code instrumentation and the pitfalls of abstraction
 
 Guillermo Polito (guillermo.polito@inria.fr)
 Pablo Tesone  (pablo.tesone@inria.fr)
 
-""Abstract:""
+**Abstract:**
 In this talk, we are going to understand the endeavours of building a robust instrumentation library.
 
 Let them be bytecode instrumentation, method wrappers, or interception of message passing, all instrumentation libraries have traditionally suffered from meta-circularities.
@@ -14,7 +14,7 @@ Our most precious abstraction --every computation is carried out by messages-- i
 We will show the design of an instrumentation support library that is tightly integrated with the language and helps instrumentation library developers build robust implementations.
 Finally, we will show how this library can help us build tools such as code coverage and profilers.
 
-""Bio:""
+**Bio:**
 Guille Polito is chargé de recherche at INRIA and the CRIStAL laboratory in the University of Lille, within the Evref team.
 He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
 Guille's main research interests are compilers, modularity, tooling and automated testing.

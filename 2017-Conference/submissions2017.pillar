@@ -1,25 +1,25 @@
-{
-"title": "Submissions"
-}
+---
+title: Submissions
+---
 
-!! Submissions
+## Submissions
 
 By alphabetical order
 
 
-!! Calypso
+## Calypso
 
 - Submitter: Stephane Ducasse
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: France
-- Download url: *https://github.com/dionisiydk/Calypso*
+- Download url: <https://github.com/dionisiydk/Calypso>
 - Keywords: Pharo, IDE
 - Licence: MIT
 
 
 
-!! Dynamic Layers
+## Dynamic Layers
 
 - Submitter: Steven Costiou
 - Smalltalk Dialect: Pharo
@@ -30,80 +30,80 @@ By alphabetical order
 
 
 
-!! Fog
+## Fog
 
 - Submitter: Santiago Bragagnolo
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria / Inria Tech
 - Country: France
-- Download url: *https://github.com/sbragagnolo/Fog*
+- Download url: <https://github.com/sbragagnolo/Fog>
 - Keywords: Ethereum, Cryptocurrencies, visualization, Query, language analysis, language implementation
 - Licence: MIT
 
 
-!! Lowtalk
+## Lowtalk
 
 - Submitter: Ronie Salgado 
 - Smalltalk Dialect: Pharo
 - Affiliation: University of Chile
 - Country: Chile
-- Download url: *https://github.com/ronsaldo/lowtalk*
-- Demo url: *https://youtu.be/XdpiYVBAtpo*
+- Download url: <https://github.com/ronsaldo/lowtalk>
+- Demo url: <https://youtu.be/XdpiYVBAtpo>
 - Keywords: compiler machine code slang
 - Licence: MIT
 
 
-!! Moldable Editor
+## Moldable Editor
 
 - Submitter: Aliaksei Syrei, Andrei Chis, Tudor Girba
 - Smalltalk Dialect: Pharo
 - Affiliation: *feenk.com*
 - Country: Switzerland
-- Download and video url: *https://github.com/feenkcom/gtoolkit*
+- Download and video url: <https://github.com/feenkcom/gtoolkit>
 - Keywords: Pharo, IDE
 - Licence: MIT
 
 
-!! PharoThings
+## PharoThings
 
 - Submitter: Denis Kudriashov
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: Russia
-- Download url:  *https://github.com/pharo-iot/PharoThings*
+- Download url:  <https://github.com/pharo-iot/PharoThings>
 - Keywords: Pharo, IoT, Raspberry, IDE
 - Licence: MIT
 
 
 
-!! PolyMath
+## PolyMath
 
 - Submitter: Serge Stinckwich
 - Smalltalk Dialect:
 - Affiliation: IRD
 - Country: France
-- Download url: *https://github.com/PolyMathOrg/PolyMath*
+- Download url: <https://github.com/PolyMathOrg/PolyMath>
 - Keywords: math, data science
 - Licence: MIT
 
-!! Randy
+## Randy
 
 - Submitter: Manuel Leuenberger
 - Smalltalk Dialect: Pharo
 - Affiliation: SCG, University of Bern
 - Country: Switzerland
-- Download url: *https://github.com/maenu/Randy*
-- Demo url: *https://youtu.be/DzU6UQeICn8*
+- Download url: <https://github.com/maenu/Randy>
+- Demo url: <https://youtu.be/DzU6UQeICn8>
 - Keywords: pharo smalltalkhub inter-project dependencies ecosystem
 - Licence: MIT
 
-!! SmartTest
+## SmartTest
 - Submitter: Benoit Verhaeghe
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: France
-- Download url: *https://github.com/badetitou/SmartTest*
-- Demo url: *https://youtu.be/5gYvvQX84vs*
+- Download url: <https://github.com/badetitou/SmartTest>
+- Demo url: <https://youtu.be/5gYvvQX84vs>
 - Keywords: Pharo, Test, Test-Automation
 - Licence: MIT
 

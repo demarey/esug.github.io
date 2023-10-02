@@ -1,8 +1,8 @@
-! Counting sheeps
+# Counting sheeps
 
 Kasper Østerbye  kasper.osterbye@maarumlam.dk
 
-""Abstract:""
+**Abstract:**
 My wife and I run a hobby farm with around 30 ewes and a yearly production of 60 lambs. We mostly sell lamb meat to friends and colleagues, as well as en gross through a dealer. We started in 2005, and we have since then rounded more than 700 births over the years.
 
 Each year we say goodbye to some ewes, and we pick some of the lambs to join the ranks of motherhood. I have build a sheep administration system - Ovina - in Pharo. 
@@ -31,13 +31,13 @@ In this talk I would like to present a few selected aspects of the Ovina system.
 - Registrations. Similarly, it must be simple to add new kinds of registrations - and use these in statistics. Again, it should not change the user interface code to add a new registration.
 - Consistency One of the key design issues in a user interface is to make sure a change in a value in one field is reflected in all the necessary parts of the gui. Also, changing a value might influence the statistics of other animals.
 
-!! Demo
+## Demo
 In the demo I plan to focus in particular on:
 
 - Data structure for Registrations, and the interface to define new kinds of Registrations.
 - The collumn handling 
 
 
-""Bio:""
+**Bio:**
 Kasper Østerbye is an independent sheepfarmer and former computer science professor from Denmark.
 Kasper has been active in Pharo, and in particular in the Microdown project.

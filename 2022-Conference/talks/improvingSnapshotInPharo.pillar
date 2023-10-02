@@ -1,12 +1,12 @@
-! Improving Snapshots on Pharo
+# Improving Snapshots on Pharo
 
 P. Tesone  (pablo.tesone@inria.fr)
 G. Polito  (guillermo.polito@inria.fr)
 
-""Abstract:""
+**Abstract:**
 Snapshotting a Pharo image efficiently is challenging. Current implementations discard all optimizations done by the VM: compiled machine code, native stack representation, young generation identification. This requires a new warm-up phase every time the image is saved. This problem is aggravated when using large images. We present how introducing a semi-permanent generation of objects improves the current state, and what emerging projects arise. 
 	
-""Bio:""
+**Bio:**
 Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
 He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
 He is interested in improving development tools and the daily development process. 

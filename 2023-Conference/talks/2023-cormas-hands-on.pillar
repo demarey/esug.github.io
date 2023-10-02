@@ -1,8 +1,8 @@
-! Hands-on Multiagent Modelling in Pharo: A Cormas Workshop
+# Hands-on Multiagent Modelling in Pharo: A Cormas Workshop
 
 Oleksandr Zaitsev  (oleksandr.zaitsev@cirad.fr)
 
-""Abstract:""
+**Abstract:**
 In addition to my talk on Cormas, in this hands-on workshop, I will teach you how to build multi-agent models in Pharo. We will run different simulations together, explore their parameters, generate and analyse the simulation data.
 
 Below is the list of models that we will explore:
@@ -20,7 +20,7 @@ Below is the list of models that we will explore:
 
 (TODO: Choose 4-5 most interesting models from this list)
 
-""Bio:""
+**Bio:**
 Oleksandr Zaitsev is a computer science researcher at Cirad (https://www.cirad.fr/)
 He was the original author of DataFrame and pharo-ai libraries, contributor to PolyMath and other Pharo libraries.
 Today, Oleksandr is doing research on machine learning & human-machine interaction and building tools for agent-based modelling.

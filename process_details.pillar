@@ -1,14 +1,14 @@
-{
-"title": "Process Details"
-}
+---
+title: Process Details
+---
 
-! Process Details
+# Process Details
 
 Let #(x y z) be a collection of votes for every candidate.
 
--x is the number of votes in first place
--y is the number of votes in second place
--z is the number of votes in third place
+- x is the number of votes in first place
+- y is the number of votes in second place
+- z is the number of votes in third place
 
 Then, You should compute:
 

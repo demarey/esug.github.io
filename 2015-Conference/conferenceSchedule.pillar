@@ -1,10 +1,10 @@
-{
-    "title": "Conference Schedule"
-}
+---
+title: Conference Schedule
+---
 
-!! Conference Schedule
+## Conference Schedule
 
-""Note:"" If you don't see anything, just apply the following steps in sequence and stop when you see the schedule: refresh, refresh, log out from your google account, log in to your google account, close your browser, open again, dance around the computer, change your browser/os/computer, try again with the previous browser/os/computer.
+**Note:** If you don't see anything, just apply the following steps in sequence and stop when you see the schedule: refresh, refresh, log out from your google account, log in to your google account, close your browser, open again, dance around the computer, change your browser/os/computer, try again with the previous browser/os/computer.
 
 {{{
 <iframe
@@ -16,4 +16,4 @@ src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&show
 style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 </p>
 
-}}}
+}}---

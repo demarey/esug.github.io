@@ -1,8 +1,8 @@
-! DataFrame, PolyMath, Pharo-AI: State of data science in Pharo
+#  DataFrame, PolyMath, Pharo-AI: State of data science in Pharo
 
 Cyril Ferlicot-Delbecque (cyril@ferlicot.fr), Sebastian Jordan Montaño (sebastian.jordan@inria.fr), Oleksandr Zaitsev (oleksandr.zaitsev@cirad.fr)
 
-""Abstract:""
+**Abstract:**
 
 Over the past few year, support for machine learning, data science, and numerical computing in Pharo has improved. 3 projects are the leader of this improvements:
 - PolyMath, a mathematical library in Pharo that implements various algorithms and data structure for algebra, matrix-vector operations, numerical analysis, differential equations, etc. It is similar to NumPy and SciPy in Python or SciRuby in Ruby
@@ -11,7 +11,7 @@ Over the past few year, support for machine learning, data science, and numerica
 
 This presentation aim to explain the latest improvements over those 3 projects and their relation to each other.
 
-""Bio:""
+**Bio:**
 
 Cyril Ferlicot-Delbecque is a research and development engineer working in the Inria Rmod team.
 He works since 2015 on divers project around Pharo and on Pharo itself. He's currently working on pharo-ai, DataFrame and Polymath.

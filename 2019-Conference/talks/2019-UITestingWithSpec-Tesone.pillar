@@ -1,8 +1,8 @@
-! UI Test with Spec: the Future is here (hace rato)
+# UI Test with Spec: the Future is here (hace rato)
 
 Pablo Tesone (tesonep@gmail.com)
 
-""Abstract:""
+**Abstract:**
 
 UI Testing is always a challenging task. 
 For example, UI testers should cover UI interactions, application state representation and its corresponding update, windows navigation and UI layouting.
@@ -13,7 +13,7 @@ Easy or not, automated tests are crucial to apply any well-known software engine
 In this talk we present how to (almost) effortlessly apply automated unit testing on Spec Applications.
 For this, we dive in Spec’s architecture and explain how we do test the different concerns with different kind of tests - layouting, presenter behaviour, backend integration.
 
-""Bio:"" 
+**Bio:** 
 Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
 He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
 He is interested in improving development tools and the daily development process. 

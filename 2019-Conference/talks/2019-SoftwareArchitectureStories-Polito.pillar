@@ -1,8 +1,8 @@
-! Software Architecture Stories
+# Software Architecture Stories
 
 Guille Polito ( guillermo.polito@univ-lille.fr / [https://guillep.github.io/](https://guillep.github.io/))
 
-""Abstract:"" 
+**Abstract:** 
 When asked about software architecture we tend to describe structures such as layers, services, micro-services, components, distribution.
 However, structure is not the only link between these architectures.
 Some people describe also software architectures as decisions, sometimes complex decisions or hard to change decisions.
@@ -12,7 +12,7 @@ This talk tells several stories about existing software architectures, how they 
 Because stories have morals, and architectures have them too.
 
 
-""Bio:"" 
+**Bio:** 
 Guille Polito is research engineer at the CRIStAL laboratory in the University of Lille, working in tight relation with the RMoD team.
 He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
 Guille's main research interests are modularity and development tools.

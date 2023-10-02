@@ -1,9 +1,9 @@
-! PharoJS for Real!
+# PharoJS for Real!
 
 Noury Bouraqadi (noury.bouraqadi@imt-nord-europe.fr)
 Dave Mason (dmason@ryerson.ca)
 
-""Abstract:""
+**Abstract:**
 PharoJS dates back to 2015. True to Pharo's philosophy, it was started to build real world software. 
 Actually, the initial motivation behind PharoJS was building mobile applications based Web technologies using Cordova (formaly PhoneGap). 
 This means that for production, Pharo code is transpiled to Javascript to benefit from JS's portability and speed. 
@@ -12,7 +12,7 @@ To do so, PharoJS provides a framework and a toolset that supports integrating P
 It also enables testing and debugging applications running on a JS interpreter.
 We'll discuss these features, and how they were successfully used to produce real world software.
 
-""Bio:""
+**Bio:**
 Noury Bouraqadi is a software developer, maker, repair hobbyist, environment/technology/robots lover [https://nootrix.com]. 
 Currently, Noury works part-time as a university professor at IMT Nord Europe, in the Autonomous and ResilienT Systems group. 
 His remaining work time is dedicated to a startup that uses PharoJS [https://pharojs.org] to build a SAS for teaching PLC programming & factory automation: PLC3000 [https://plc3000.com].

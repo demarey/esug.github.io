@@ -1,8 +1,8 @@
-! Workshop on Concept Inventories in OOP
+# Workshop on Concept Inventories in OOP
 
 Stéphane Ducasse
 
-""Abstract:""
+**Abstract:**
 Concept inventories started in the domain of Newtonian physics. The Force Concept Inventory is a multiple-choice test designed to measure students’ understanding of kinematics. It has proven to be a powerful tool for improving the teaching and learning of mechanics.
 The goal of identifying a concept inventory in object-oriented (OO) and agile development is to improve the learning and teaching of concepts in agile development in the domain of software engineering and software development. OO software development is a popular development approach today in the industry. Agile methods have been taught in universities for at least 20 years. They are popular in industry because of how they manage complexity and risk, compared to traditional strategies (e.g., so-called waterfall methodology). Agile includes test-driven development and iterative and incremental design. These approaches are very popular today in industry, especially with continuous integration (CI) and continuous deployment (CD) allowing companies to deliver robust, new functionalities frequently. It is pertinent that students grasp these concepts and be able to meet the needs of industry. C. Fuhrman and S. Ducasse are experts in these areas and have been teaching and practicing them for more than 20 years.
 
@@ -12,6 +12,6 @@ During this workshop participants will
 - learn about concept inventories
 - gather some concepts based on their teaching experience on tests and OOD. 
 
-""Bio:""
-Stéphane is one of the authors of the Pharo Mooc *http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org*.
+**Bio:**
+Stéphane is one of the authors of the Pharo Mooc <http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org>.
 Guillermo is an expert on OOD. Pablo has been teaching for several years object-oriented design. 

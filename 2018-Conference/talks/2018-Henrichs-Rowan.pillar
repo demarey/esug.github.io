@@ -1,8 +1,8 @@
-! Rowan: A new project/package manager
+# Rowan: A new project/package manager
 
 Dale Henrichs (dale.henrichs@gemtalksystems.com)
 
-""Abstract:""
+**Abstract:**
 Rowan is a new take on project/package management for Smalltalk.
 
 Last year GemTalk Systems decided to incorporate a git-based source code
@@ -33,7 +33,7 @@ We are currently working on expanding the functionality of Jadeite to
 incorporate Rowan projects and configurations. We also plan on starting work on
 a Pharo-based Rowan client later this year.
 
-""Bio:""
+**Bio:**
 Dale Henrichs is a Principal Engineer at GemTalk Systems and has been working
 in Smalltalk since 1985. For the last decade Dale has focused on the development
 and support of open source projects for both GemTalk Systems and the Smalltalk

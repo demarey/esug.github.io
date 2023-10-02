@@ -1,8 +1,8 @@
-! Dancing Links in Smalltalk
+# Dancing Links in Smalltalk
 
 Massimo Nocentini ( massimo.nocentini@unifi.it )
 
-""Abstract:"" 
+**Abstract:** 
 This talk aims to show *Dancing Links* (re)-introduced by Donald Knuth and it
 can be regarded as an educational pearl. In Donald's words: 
 
@@ -32,7 +32,7 @@ We would like to show our implementation which uses plain DoubleLink and
 DoubleLinkedList objects and some applications to exact cover problems such as
 sudoku and N-Queen.
 
-""Bio:"" 
+**Bio:** 
 I'm a post-doc at the University of Florence, working primarily on
 combinatorics, formal methods for the analysis of algorithms and NLP, having a
 deep passion for programming from a long time. I graduated at the same

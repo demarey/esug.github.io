@@ -1,10 +1,10 @@
-{
-"title": "Support"
-}
+---
+title: Support
+---
 
-!Support ESUG
+# Support ESUG
 
-The European Smalltalk Users Group (ESUG) performs many *actions to promote Smalltalk>promotion.pillar* use in both industry and academia. You can support ESUG by helping for such actions. In this case, please get in touch with the *ESUG board>esug-info@esug.org*. If you don't have time to participate to ESUG activities you can: 
+The European Smalltalk Users Group (ESUG) performs many [actions to promote Smalltalk>promotion.pillar* use in both industry and academia. You can support ESUG by helping for such actions. In this case, please get in touch with the *ESUG board](esug-info@esug.org). If you don't have time to participate to ESUG activities you can: 
 
 - donate some money through our PayPal account.
 
@@ -19,11 +19,11 @@ The European Smalltalk Users Group (ESUG) performs many *actions to promote Smal
 <input type="hidden" name="tax" value="0">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form>
-}}}
+}}---
 
-- *become a Sponsor>become_sponsor.pillar*
+- [become a Sponsor](become_sponsor.pillar)
 
-!Pay an ESUG's invoice through PayPal
+# Pay an ESUG's invoice through PayPal
 
 {{{html:
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -38,4 +38,4 @@ The European Smalltalk Users Group (ESUG) performs many *actions to promote Smal
 	<tr><td></td><td><input type="submit" border="0" value="Pay my invoice" alt="Pay you invoice with PayPal - it's fast, free and secure!"></td></tr>
 </table>
 </form>
-}}}
+}}---

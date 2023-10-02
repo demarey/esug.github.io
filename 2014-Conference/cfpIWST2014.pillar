@@ -1,9 +1,9 @@
-{
-"title": "IWST 2014"
-}
+---
+title: IWST 2014
+---
 
-!! IWST14
-!! 6th International Workshop on Smalltalk Technologies
+## IWST14
+## 6th International Workshop on Smalltalk Technologies
 
 The ESUG'14 companion event
 
@@ -14,14 +14,14 @@ Cambridge, England.
 - Workshop : August 19, 2014
 
 
-!! Proceedings
+## Proceedings
 
-*Get it here in Pdf>iwst14-proceedings.pdf*
+[Get it here in Pdf](iwst14-proceedings.pdf)
 
-All accepted papers are available separately in a *compressed archive>http://www.esug.org/wiki/pier/Conferences/2014/IWST14/IWST14_Accepted_papers?_s=OljKsjELNBGgeEcB&_k=ROiJYmfy54KUOBah&view=PRDownloadView&_n&31*.
+All accepted papers are available separately in a [compressed archive](http://www.esug.org/wiki/pier/Conferences/2014/IWST14/IWST14_Accepted_papers?_s=OljKsjELNBGgeEcB&_k=ROiJYmfy54KUOBah&view=PRDownloadView&_n&31).
 
 
-!! Awards
+## Awards
 
 {{{
 <p><table border=1 cellspacing=0 cellpadding=5>
@@ -32,7 +32,7 @@ All accepted papers are available separately in a *compressed archive>http://www
 <tr><td> <img width="50" alt="IwstAwardImage3" src="../images/2014-iwstAward2.png"/> </td>
 <td> <strong>The Moldable Inspector: A framework for domain-specific object inspection</strong>, <em>Andrei Chis, Tudor Girba and Oscar Nierstrasz</em> </td></tr>
 </table></p>
-}}}
+}}---
 
 {{{
 
@@ -121,7 +121,7 @@ All accepted papers are available separately in a *compressed archive>http://www
 	</tr>
 </table>
 
-}}}
+}}---
 
 {{{
 
@@ -221,21 +221,21 @@ All accepted papers are available separately in a *compressed archive>http://www
 
 </p>
 
-}}}
+}}---
 
 
-""Best Paper Award""
+**Best Paper Award**
 
 To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST. 
 
-We thank the *Lam Research Corporation>http://www.lamresearch.com/* for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+We thank the [Lam Research Corporation](http://www.lamresearch.com/) for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
 
 The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
 
 The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the authors and that the presenting author must be registered at the ESUG conference.
 
 
-""Goals and scopes""
+**Goals and scopes**
 
 The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
 
@@ -248,7 +248,7 @@ We expect papers of three kinds:
 We will not enforce any length restriction.
 
 
-""Topics""
+**Topics**
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
 
@@ -261,24 +261,24 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 - Meta-programming and Meta-modeling,
 - Tools
 
-""Publication""
+**Publication**
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
-
-
-""Submissions""
-
-All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst14*
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at <http://www.sigplan.org/Resources/Author/>. This site also contains links to useful informations on how to write effective submissions. Submission
 
 
-""Program chairs""
+**Submissions**
+
+All submissions must be sent via easychair: <https://easychair.org/conferences/?conf=iwst14>
+
+
+**Program chairs**
 
 - Alain Plantec (UMR 6265 Lab-STICC, University of Brest, France)
 - Jannik Laval (Ecole des Mines de Douai, France)
 
 
 
-""Program Committee""
+**Program Committee**
 
 - Alexandre Bergel (Pleiad Lab, University of Chile, Chile)
 - Noury Bouraqadi (Ecole des Mines de Douai, France)

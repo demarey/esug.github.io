@@ -1,9 +1,9 @@
-! CORMAS, a participatory and interdisc​iplinary modeling platform
+# CORMAS, a participatory and interdisc​iplinary modeling platform
 
 
 Pierre Bommel (pierre.bommel@cirad.fr) and Etienne Delay (etienne.delay@cirad.fr)
 
-""Abstract:""
+**Abstract:**
 CORMAS (for COmmon-pool Resources and Multi-Agent Systems) is an Agent-Based Modeling (ABM) platform runing on Pharo, dedicated to natural and common-pool resources management. As an open-source
  software, it is used by an international community of researchers
 willing to understand the relationships between human societies and
@@ -34,7 +34,7 @@ enable to collectively explore medium and long-term scenarios to
 better understand how a desired situation may be reached on the
 field.
 
-""Bio:""
+**Bio:**
 Pierre Bommel (pierre.bommel@cirad.fr):
 I am a modeler scientist at CIRAD. I contribute to promoting the Companion Modeling approach. Through the development of CORMAS, I have been focusing on the development and the use of Multi-Agent Systems for the simulation of renewable resource management issues. Since 2010, I am based in Costa Rica, at the University.
 I develop models related to environmental management, such as breeding adaptation of drought in Uruguay or as breeding and deforestation in the Amazon. Nowadays, I am especially interested in collective design of ABM and interactive simulation for assisting role-playing games.

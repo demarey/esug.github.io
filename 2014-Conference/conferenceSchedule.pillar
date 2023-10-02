@@ -1,19 +1,19 @@
-{
-    "title": "Conference Schedule"
-}
+---
+title: Conference Schedule
+---
 
-!! Conference Schedule
+## Conference Schedule
 
-""Note"": If you don't see anything, just apply the following steps in sequence and stop when you see the schedule: refresh, refresh, log out from your google account, log in to your google account, close your browser, open again, dance around the computer, change your navigator/os/computer, try again with the previous navigator/os/computer.
+**Note**: If you don't see anything, just apply the following steps in sequence and stop when you see the schedule: refresh, refresh, log out from your google account, log in to your google account, close your browser, open again, dance around the computer, change your navigator/os/computer, try again with the previous navigator/os/computer.
 
 We will have some parallel tracks. Here are the talks per room:
 
-- *Room map>gates2.pdf*
-- *Monday>../images/1-RoomMonday.png*
-- *Tuesday>../images/2-RoomTuesday.png*
-- *Wednesday>../images/3-RoomWednesday.png*
-- *Thursday>../images/4-RoomThursday.png*
-- *Friday>../images/5-Friday.png*
+- [Room map](gates2.pdf)
+- [Monday](../images/1-RoomMonday.png)
+- [Tuesday](../images/2-RoomTuesday.png)
+- [Wednesday](../images/3-RoomWednesday.png)
+- [Thursday](../images/4-RoomThursday.png)
+- [Friday](../images/5-Friday.png)
 
 {{{
 
@@ -26,4 +26,4 @@ src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&show
 style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </p>
 
-}}}
+}}---

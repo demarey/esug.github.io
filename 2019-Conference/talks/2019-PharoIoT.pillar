@@ -1,14 +1,14 @@
-! Pharo IoT: Present and Future
+# Pharo IoT: Present and Future
 
 Allex Oliveira <allex.oliveira@msn.com>
 Nobert Hartl (norbert@2denker.de)
 Marcus Denker (marcus.denker@inria.fr)
 
-""Abstract:""
+**Abstract:**
 We will present the current state of PharoIoT with a focus on the improvements done related to simplifying the installation of PharoIoT, the new website and the new tutorials for starting with PharoIoT.
 We will show some examples of projects that were done using PharoIoT and then give an overview what is planned for the future.
 
-""Bio:""
+**Bio:**
 Allex Oliveira is an IoT engineer at INRIA Lille Nord Europe in RMoD team (http://rmod.inria.fr).
 His interests are wireless networks, cybersecurity, internet of things, and management & monitoring systems. 
 Allex participates in the Pharo community since 2018 and he works with Pharo IoT coding new tools. 

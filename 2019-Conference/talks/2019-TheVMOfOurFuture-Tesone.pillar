@@ -1,8 +1,8 @@
-! Present and Future of the PharoVM
+# Present and Future of the PharoVM
 
 Pablo Tesone (tesonep@gmail.com)
 
-""Abstract:""
+**Abstract:**
 
 Last year the Pharo team set as objective to have a headless event-based embeddable VM for the future.
 However, evolving the VM and reaching a mature product requires an infrastructure that supports change and makes it painless.
@@ -22,7 +22,7 @@ These changes were capital to make possible this year:
 
 Although our short-term future includes an event-based VM, this infrastructure opens a lots of doors in VM development.
 
-""Bio:"" 
+**Bio:** 
 Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
 He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
 He is interested in improving development tools and the daily development process. 
