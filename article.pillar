@@ -4,7 +4,7 @@ title: Your Article
 
 # YourArticle
 
-![](file://images/Promotion.jpg|width=70|label=Promote)
+![](file://images/Promotion.jpg "width=70&label=Promote")
 
 ESUG decided to support authors for each paper that gets published on Smalltalk (whatever dialect) on mainstream forums:
 - ESUG will give 100€ for national or international audience.
