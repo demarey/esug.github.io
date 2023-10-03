@@ -17,7 +17,7 @@ Monday 7th July: 2PM – 6PM
 
 Where: Station Cycles, in the Grand Arcade in Com Exchange Street.
 
-<http://www.cl.cam.ac.uk/~dc552/GNUstepDevMeeting/>
+[http://www.cl.cam.ac.uk/~dc552/GNUstepDevMeeting/](http://www.cl.cam.ac.uk/~dc552/GNUstepDevMeeting/)
 
 For the people that paid their one week bike rental with their accommodation, you can pick your bike there without paying anything.
 

@@ -13,8 +13,8 @@ By alphabetical order
 - Smalltalk Dialect: SqueakJS
 - Affiliation: Black Page Digital
 - Country: Netherlands
-- Download url: <http://blackpagedigital.com/caffeine>
-- Demo url: <http://blackpagedigital.com/caffeine>
+- Download url: [http://blackpagedigital.com/caffeine](http://blackpagedigital.com/caffeine)
+- Demo url: [http://blackpagedigital.com/caffeine](http://blackpagedigital.com/caffeine)
 - Keywords: squeakjs webdav filesystem myfavoritetexteditor
 - Licence: MIT
 
@@ -27,8 +27,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Université de Lyon
 - Country: France
-- Download url: <http://www.phratch.com/>
-- Demo url: <http://www.faciltecnologias.com.br/Mesa_video.mp4>
+- Download url: [http://www.phratch.com/](http://www.phratch.com/)
+- Demo url: [http://www.faciltecnologias.com.br/Mesa_video.mp4](http://www.faciltecnologias.com.br/Mesa_video.mp4)
 - Keywords: phratch, educational hardware, teaching
 - Licence: GPL2
 
@@ -40,8 +40,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Software Research Associates, Inc.
 - Country: Japan
-- Download url: <http://smalltalkhub.com/#!/~tomooda/HoneyGinger*, *http://smalltalkhub.com/#!/~tomooda/Jun4Pharo>
-- Demo url: <https://www.youtube.com/watch?v=Wq6APgF1ZHc>
+- Download url: [http://smalltalkhub.com/#!/~tomooda/HoneyGinger*, *http://smalltalkhub.com/#!/~tomooda/Jun4Pharo](http://smalltalkhub.com/#!/~tomooda/HoneyGinger*, *http://smalltalkhub.com/#!/~tomooda/Jun4Pharo)
+- Demo url: [https://www.youtube.com/watch?v=Wq6APgF1ZHc](https://www.youtube.com/watch?v=Wq6APgF1ZHc)
 - Keywords: OpenGL, Fluid Dynamics, Interactive Simulation
 - Licence: Jun: BSD, HoneyGinger: MIT
 
@@ -52,7 +52,7 @@ By alphabetical order
 - Smalltalk Dialect: PharoJS
 - Affiliation: Ryerson University
 - Country: Canada
-- Download url: <http://programmingfortherestofus.com/>
+- Download url: [http://programmingfortherestofus.com/](http://programmingfortherestofus.com/)
 - Keywords: End-user programming
 - Licence: MIT
 
@@ -63,8 +63,8 @@ By alphabetical order
 - Smalltalk Dialect: Bee Smalltalk
 - Affiliation: PetroVR
 - Country: Argentina
-- Download url: <https://www.dropbox.com/sh/9q9s7oksonl0i7x/AAAriwzJBet-E4ZHxQSOZMzIa?dl=0>
-- Demo url: <https://youtu.be/3RpLxCXKYRQ>
+- Download url: [https://www.dropbox.com/sh/9q9s7oksonl0i7x/AAAriwzJBet-E4ZHxQSOZMzIa?dl=0](https://www.dropbox.com/sh/9q9s7oksonl0i7x/AAAriwzJBet-E4ZHxQSOZMzIa?dl=0)
+- Demo url: [https://youtu.be/3RpLxCXKYRQ](https://youtu.be/3RpLxCXKYRQ)
 - Keywords: music, algorithm composition, smalltalk
 - Licence: free
 
@@ -75,8 +75,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Author
 - Country: France
-- Download url:  <http://smalltalkhub.com/#!/~GustavoSantos/MacroRecorder>
-- Demo url: <https://www.youtube.com/watch?v=gW3l4O-WEGs>
+- Download url:  [http://smalltalkhub.com/#!/~GustavoSantos/MacroRecorder](http://smalltalkhub.com/#!/~GustavoSantos/MacroRecorder)
+- Demo url: [https://www.youtube.com/watch?v=gW3l4O-WEGs](https://www.youtube.com/watch?v=gW3l4O-WEGs)
 - Keywords: Automated Code Transformations, Software Maintenance, Refactoring
 - Licence: MIT
 
@@ -88,8 +88,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Software Composition Group
 - Country: Switzerland
-- Download url: <https://github.com/Uko/MatchTool/files/428549/PharoWithMatchTool.zip>
-- Demo url: <https://youtu.be/0atr28iccAw>
+- Download url: [https://github.com/Uko/MatchTool/files/428549/PharoWithMatchTool.zip](https://github.com/Uko/MatchTool/files/428549/PharoWithMatchTool.zip)
+- Demo url: [https://youtu.be/0atr28iccAw](https://youtu.be/0atr28iccAw)
 - Keywords: pattern code, matching, rewrite, transformation, refactoring
 - Licence: MIT
 
@@ -100,8 +100,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria RMOD
 - Country: France
-- Download url: <https://raw.githubusercontent.com/pillar-markup/pillar/master/download.sh>
-- Demo url: <https://youtu.be/dCJOCKqF3ZI>
+- Download url: [https://raw.githubusercontent.com/pillar-markup/pillar/master/download.sh](https://raw.githubusercontent.com/pillar-markup/pillar/master/download.sh)
+- Demo url: [https://youtu.be/dCJOCKqF3ZI](https://youtu.be/dCJOCKqF3ZI)
 - Keywords: Pillar Pharo Markup Document
 - Licence: MIT
 
@@ -111,8 +111,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: France
-- Download url: <http://smalltalkhub.com/#!/~Pharo/RemoteDebuggingTools>
-- Demo url: <https://www.youtube.com/watch?v=SgFjgQpo_nU>
+- Download url: [http://smalltalkhub.com/#!/~Pharo/RemoteDebuggingTools](http://smalltalkhub.com/#!/~Pharo/RemoteDebuggingTools)
+- Demo url: [https://www.youtube.com/watch?v=SgFjgQpo_nU](https://www.youtube.com/watch?v=SgFjgQpo_nU)
 - Keywords: RemoteDebugger, remoting
 - Licence: MIT
 
@@ -124,8 +124,8 @@ By alphabetical order
 - Smalltalk Dialect: Squeak, Pharo, and GemStone
 - Affiliation: Hasso Plattner Institute
 - Country: Germany
-- Download url: <https://github.com/hpi-swa/smalltalkCI>
-- Demo url: <https://www.youtube.com/watch?v=SgFjgQpo_nU>
+- Download url: [https://github.com/hpi-swa/smalltalkCI](https://github.com/hpi-swa/smalltalkCI)
+- Demo url: [https://www.youtube.com/watch?v=SgFjgQpo_nU](https://www.youtube.com/watch?v=SgFjgQpo_nU)
 - Keywords: Continuous Integration, Deployment, Travis CI, Coverage Testing
 - Licence: MIT
 
@@ -137,7 +137,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: University of Bern
 - Country: Switzerland
-- Download url: <http://scg.unibe.ch/research/sparta#download>
+- Download url: [http://scg.unibe.ch/research/sparta#download](http://scg.unibe.ch/research/sparta#download)
 - Keywords: vector graphics, 2d
 - Licence: MIT
 
@@ -146,12 +146,12 @@ By alphabetical order
 ## The OpenPonk modeling platform
 
 - Submitter: Peter Uhnák
-- Other Developers: <https://github.com/OpenPonk/openponk/graphs/contributors>
+- Other Developers: [https://github.com/OpenPonk/openponk/graphs/contributors](https://github.com/OpenPonk/openponk/graphs/contributors)
 - Smalltalk Dialect: Pharo
 - Affiliation: Czech Technical University - Faculty of Information Technology (CCMi)
 - Country: Czech Republic
-- Download url: <https://openponk.github.io/>
-- Demo url: <https://openponk.github.io/>
+- Download url: [https://openponk.github.io/](https://openponk.github.io/)
+- Demo url: [https://openponk.github.io/](https://openponk.github.io/)
 - Keywords: modeling, uml, borm, fsm
 - Licence: MIT
 
@@ -163,8 +163,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Author
 - Country: Chile
-- Download url: <https://github.com/ronsaldo/woden2>
-- Demo url: <https://youtu.be/o5Fadz6prTw>
+- Download url: [https://github.com/ronsaldo/woden2](https://github.com/ronsaldo/woden2)
+- Demo url: [https://youtu.be/o5Fadz6prTw](https://youtu.be/o5Fadz6prTw)
 - Keywords: 3D Woden Level Editor Vulkan Bloc
 - Licence: MIT
 

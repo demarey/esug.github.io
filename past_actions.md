@@ -8,7 +8,7 @@ In a time where we are bombarded with information some of you may not have notic
 
 ## Seaside Hosting since 2006
 
-- <http://www.seasidehosting.st/>
+- [http://www.seasidehosting.st/](http://www.seasidehosting.st/)
 
 ## Projects
 ESUG wants [support your projects](/project.html). It can be project related to software development, teaching, conference presence, etc.

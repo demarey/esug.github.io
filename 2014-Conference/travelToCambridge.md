@@ -15,7 +15,7 @@ The closest airport is [London Stansted](http://www.stanstedairport.com/). Cheap
 
 **Rail**: trains from Stansted to Cambridge are frequent, taking 40 minutes or less for the fastest ones. Stansted train station is directly underneath Stansted Airport arrivals hall. Cambridge station is on the south side of town, so it is a bit of a walk to the accommodation - those with more luggage will wish to use taxi or bus.
 
-For schedules, visit UK rail enquires (<http://www.nationalrail.co.uk*) or this advance-booking site (*http://www.thetrainline.com>).
+For schedules, visit UK rail enquires ([http://www.nationalrail.co.uk*](http://www.nationalrail.co.uk*) or this advance-booking site (*http://www.thetrainline.com)).
 
 **Car**: Stansted is connected to Cambridge by the M11 motorway. The total distance is just under 30 miles. Allow 45 minutes drive-time.
 
@@ -31,9 +31,9 @@ The other London airports are further from Cambridge.
 
 ## Car Ferry and Tunnel
 
-You can take your car by train though the channel tunnel from Calais to Folkestone, then drive for just over two hours on motorways (M20, then M25, then M11) to reach Cambridge. (<http://www.eurotunnel.com>)
+You can take your car by train though the channel tunnel from Calais to Folkestone, then drive for just over two hours on motorways (M20, then M25, then M11) to reach Cambridge. ([http://www.eurotunnel.com](http://www.eurotunnel.com))
 
-There are ferries from Hook-of-Holland to Harwich (<http://www.directferries.co.uk/hook_of_holland_harwich_ferry.htm*) and from Ejsberg (in Denmark) to Harwich (*http://www.directferries.co.uk/esbjerg_harwich_ferry.htm>). Allow just under two hours to drive from Harwich ferry landing along the A120 main road to its junction with the M11 (near Stansted Airport) and up to Cambridge. (These ferries' schedules include overnight crossings; you can travel and sleep at the same time.)
+There are ferries from Hook-of-Holland to Harwich ([http://www.directferries.co.uk/hook_of_holland_harwich_ferry.htm*](http://www.directferries.co.uk/hook_of_holland_harwich_ferry.htm*) and from Ejsberg (in Denmark) to Harwich (*http://www.directferries.co.uk/esbjerg_harwich_ferry.htm)). Allow just under two hours to drive from Harwich ferry landing along the A120 main road to its junction with the M11 (near Stansted Airport) and up to Cambridge. (These ferries' schedules include overnight crossings; you can travel and sleep at the same time.)
 
 Other ferries go from various points in Europe to Dover (just over 2 hours drive from Cambridge) and other points in the UK.
 
@@ -41,7 +41,7 @@ Other ferries go from various points in Europe to Dover (just over 2 hours drive
 
 ## Train from Europe
 
-The Eurostar service by train through the channel tunnel will get you from Paris, Lille or Brussels to London, where you can take a train to Cambridge. Bahn.de (<http://www.bahn.de/i/view/GBR/en/index.shtml>) has a good interface and many languages to check connections.
+The Eurostar service by train through the channel tunnel will get you from Paris, Lille or Brussels to London, where you can take a train to Cambridge. Bahn.de ([http://www.bahn.de/i/view/GBR/en/index.shtml](http://www.bahn.de/i/view/GBR/en/index.shtml)) has a good interface and many languages to check connections.
 
 ## Travel to the venue
 

@@ -7,7 +7,7 @@ title: Your Project
 ![](file://images/Promotion.jpg "width=70&label=Promote")
 
 
-''ESUG wants to support your projects. It can be projects related to software development, teaching, conference presence, etc.''
+*ESUG wants to support your projects. It can be projects related to software development, teaching, conference presence, etc.*
 
 ## Rules
 

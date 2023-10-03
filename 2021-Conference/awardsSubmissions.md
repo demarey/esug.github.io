@@ -6,5 +6,5 @@ title: Projects Submitted to the Innovation Technology Awards 2020
 ### 1st: Name
 %![](file://Medailles2019-01.png "width=30")
 - ''Submitted by'': **Author name**
-- ''Download'': **<https://github.com/**>
-- ''Demo'': **<https://youtu.be/**>
+- ''Download'': **[https://github.com/**](https://github.com/**)
+- ''Demo'': **[https://youtu.be/**](https://youtu.be/**)

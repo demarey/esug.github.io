@@ -8,16 +8,16 @@ title: Show Us Your Project
 
 Session 1:
 
-- Part1: <https://www.youtube.com/watch?v=keqdqFu1ejk>
-- Part2: <https://www.youtube.com/watch?v=tCZuayzsjQE>
-- Part3: <https://www.youtube.com/watch?v=nyJUx9zxwpI>
+- Part1: [https://www.youtube.com/watch?v=keqdqFu1ejk](https://www.youtube.com/watch?v=keqdqFu1ejk)
+- Part2: [https://www.youtube.com/watch?v=tCZuayzsjQE](https://www.youtube.com/watch?v=tCZuayzsjQE)
+- Part3: [https://www.youtube.com/watch?v=nyJUx9zxwpI](https://www.youtube.com/watch?v=nyJUx9zxwpI)
 
 Session 2:
 
-- Part1: <https://www.youtube.com/watch?v=xKtt_N-I_U4>
-- Part2: <https://www.youtube.com/watch?v=Wr1IenGfT0I>
-- Part3: <https://www.youtube.com/watch?v=eGhSo67jWpo>
-- Part4: <https://www.youtube.com/watch?v=TH1-FWr00-s>
-- Part5: <https://www.youtube.com/watch?v=l_3_bYutB00>
+- Part1: [https://www.youtube.com/watch?v=xKtt_N-I_U4](https://www.youtube.com/watch?v=xKtt_N-I_U4)
+- Part2: [https://www.youtube.com/watch?v=Wr1IenGfT0I](https://www.youtube.com/watch?v=Wr1IenGfT0I)
+- Part3: [https://www.youtube.com/watch?v=eGhSo67jWpo](https://www.youtube.com/watch?v=eGhSo67jWpo)
+- Part4: [https://www.youtube.com/watch?v=TH1-FWr00-s](https://www.youtube.com/watch?v=TH1-FWr00-s)
+- Part5: [https://www.youtube.com/watch?v=l_3_bYutB00](https://www.youtube.com/watch?v=l_3_bYutB00)
 
 Some slides are [here](http://esug.org/data/ESUG2014/ShowUsYourProject/)

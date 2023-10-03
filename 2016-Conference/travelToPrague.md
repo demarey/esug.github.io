@@ -8,4 +8,4 @@ title: Travel To Prague
 
 - From Prague to Airport: Taking Bus 119 to the airport: Take line A of the metro to Nádraží Veleslavín. Bus 119 leaves from near the station exit and runs from around 5 a.m. until around 0:30 at night. The airport is at the end of the line and the bus stops at all the terminals - 3 (private flights), 1 (flights to non-Schengen countries), and 2 (flights to Schengen countries). Announcements are made in English at the terminals.
 
-- More information here: <http://www.myczechrepublic.com/prague/prague-airport-bus.html>
+- More information here: [http://www.myczechrepublic.com/prague/prague-airport-bus.html](http://www.myczechrepublic.com/prague/prague-airport-bus.html)

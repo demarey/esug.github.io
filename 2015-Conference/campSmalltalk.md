@@ -14,4 +14,4 @@ The camp Smalltalk will happen at the Centro Pastorale paolo VI, the sunday 12. 
                     Tel 0303773511 – Fax 03048229
 ```
 
-<http://www.centropastoralepaolovi.it/>
+[http://www.centropastoralepaolovi.it/](http://www.centropastoralepaolovi.it/)

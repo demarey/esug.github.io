@@ -33,7 +33,7 @@ Here is the list of the books we will offer to you
 
 Here is the list of the Universities that received the teacher packages. Note that SmallWiki offuscates email addresses so we do not need to use tricks for email address encodings.
 
-{{{<hr/>}}---
+<hr/>
 
 ## Algeria
 ## Département d'Électronique - Université de Blida
@@ -42,7 +42,7 @@ Here is the list of the Universities that received the teacher packages. Note th
 ## Faculté des Sciences et des Sciences de l’Ingénieur – Université Hassiba Ben Bouali de Chlef
 - Contact Information: Mohamed Benarous
 
-{{{<hr/>}}---
+<hr/>
 
 ## Argentina
 ## Universidad Tecnológica Nacional (Buenos Aires)
@@ -50,11 +50,11 @@ Here is the list of the Universities that received the teacher packages. Note th
 
 ## LIFIA - Facultad de Informática de Universidad Nacional de La Plata
 - Contact Information: Prof. Gustavo Rossi *gustavo@sol.info.unlp.edu.ar*
-- Website: <http://www-lifia.info.unlp.edu.ar>
+- Website: [http://www-lifia.info.unlp.edu.ar](http://www-lifia.info.unlp.edu.ar)
 
 ## Colegio Schonthal (Buenos Aires)
 - Contact Information: Prof. Gonzalo Zabala, Coordinador de Informática Colegio Schonthal, *correo@schonthal.esc.edu.ar*
-- Website: <http://www.schonthal.esc.edu.ar*, *http://www.roboliga.com.ar>
+- Website: [http://www.schonthal.esc.edu.ar](http://www.schonthal.esc.edu.ar), [http://www.roboliga.com.ar](http://www.roboliga.com.ar)
 
 ## University of Buenos Aires
 - Contact Information: Dan Rozenfarb *drozenfa@yahoo.com.ar*
@@ -65,80 +65,80 @@ Here is the list of the Universities that received the teacher packages. Note th
 ## Smalltalking (Buenos Aires)
 - Contact Information: Alejandro Reimondo *alereimondo@smalltalking.net*
 
-{{{<hr/>}}---
+<hr/>
 
 ## Belgium
 ## Vrije Universiteit Brussels
 - Contact Information: Johan Brichau and Kris Gijbels *johan.brichau@vub.ac.be* , *kris.gybels@vub.ac.be*
-- Website: <http://www.prog.vub.be>
+- Website: [http://www.prog.vub.be](http://www.prog.vub.be)
 
 ## Université Libre de Bruxelles
 - Contact Information: Roel Wuyts *Roel.Wuyts@ulb.ac.be*
-- Website: <http://www.ulb.ac.be>
+- Website: [http://www.ulb.ac.be](http://www.ulb.ac.be)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Brazil
 ## Instituto de Cinecias Matematicas e de Computacao - Universidade de Sao Paulo
 - Contact Information: Rosana Braga *rtvb@icmc.usp.br*
-- Website: <http://www.icmc.usp.br>
+- Website: [http://www.icmc.usp.br](http://www.icmc.usp.br)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Chile
 ## Departamento de Ciencias de la Computación - Universidad de Chile
 - Contact Information: Eric Tanter *etanter@free.fr*
 
-{{{<hr/>}}---
+<hr/>
 
 ## China
 ## Huazhong University of Science and Technology (Wuhan Hubei)
 - Contact Information: Junfeng Lee *unfeng@sohu.com*
-- Website: <http://www.hust.edu.cn/english/index.html>
+- Website: [http://www.hust.edu.cn/english/index.html](http://www.hust.edu.cn/english/index.html)
 
 ## The State Key Laboratory of Software Engineering - Wuhan Technology University
 - Contact Information: Liang Peng *pliangeng@yahoo.com*
-- Website: <http://www.whut.edu.cn/>
+- Website: [http://www.whut.edu.cn/](http://www.whut.edu.cn/)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Czech Republic
 ## Brno University of Technology
 - Contact Information: Vladimir Janousek *janousek@fit.vutbr.cz*
-- Website: <http://www.fit.vutbr.cz>
+- Website: [http://www.fit.vutbr.cz](http://www.fit.vutbr.cz)
 
 ## Department of Information Engineering - Czech University of Agriculture in Prague
 - Contact Information: Vojtech Merunka *merunka@pef.czu.cz*
-- Website: <http://kii.pef.czu.cz/~merunka>
+- Website: [http://kii.pef.czu.cz/~merunka](http://kii.pef.czu.cz/~merunka)
 
 ## Faculty of Electrical Engineering - Czech Technical University (Prague)
 - Contact Information: Jan Lukes *xlukesj@fel.cvut.cz*
-- Website: <http://cs.felk.cvut.cz>, http://webis.felk.cvut.cz/en/
+- Website: [http://cs.felk.cvut.cz](http://cs.felk.cvut.cz), http://webis.felk.cvut.cz/en/
 
-{{{<hr/>}}---
+<hr/>
 
 ## France
 ## IUT de Caen - Université de Caen
-- Contact Information: Dr. Serge Stinckwich <http://www.iutc3.unicaen.fr/serge/* *Serge.Stinckwich@info.unicaen.fr>
-- Website: <http://www.iutc3.unicaen.fr/>
+- Contact Information: Dr. Serge Stinckwich [http://www.iutc3.unicaen.fr/serge/* *Serge.Stinckwich@info.unicaen.fr](http://www.iutc3.unicaen.fr/serge/* *Serge.Stinckwich@info.unicaen.fr)
+- Website: [http://www.iutc3.unicaen.fr/](http://www.iutc3.unicaen.fr/)
 
 ## Université de Montpellier-II
 - Contact Information: Christophe Dony *dony@lirmm.fr*
-- Website: <http://www.univ-montp2.fr/>
+- Website: [http://www.univ-montp2.fr/](http://www.univ-montp2.fr/)
 
 ## Université de Paris 8
-- Contact Information: Vincent Lesbros <http://www.ai.univ-paris8.fr/~vi/> lesbros_AT_club-internet.fr
-- Website: <http://www.ai.univ-paris8.fr/>
+- Contact Information: Vincent Lesbros [http://www.ai.univ-paris8.fr/~vi/](http://www.ai.univ-paris8.fr/~vi/) lesbros_AT_club-internet.fr
+- Website: [http://www.ai.univ-paris8.fr/](http://www.ai.univ-paris8.fr/)
 
 ## École des Mines de Douai
 - Contact Information: Dr. Noury Bouraqadi *bouraqadi@ensm-douai.fr*
-- Website: <http://csl.esmn-douai.fr/noury>
+- Website: [http://csl.esmn-douai.fr/noury](http://csl.esmn-douai.fr/noury)
 
 ## Université de Bretagne Occidentale
 - Contact Information: Loic Lagadec *loic.lagadec@univ-brest.fr*
-- Website: <http://www.univ-brest.fr/>
+- Website: [http://www.univ-brest.fr/](http://www.univ-brest.fr/)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Germany
 ## Computer Science Department - Darmstadt University of Technology
@@ -147,73 +147,73 @@ Here is the list of the Universities that received the teacher packages. Note th
 
 ## University of Munich
 - Contact Information: Lothar Schmitz *lothar@informatik.unibw-muenchen.de*
-- Website: <http://ist.unibw-muenchen.de/Research/Tools/SIC/>
+- Website: [http://ist.unibw-muenchen.de/Research/Tools/SIC/](http://ist.unibw-muenchen.de/Research/Tools/SIC/)
 
 ## FH Nordakademie - Fachbereich Informatik
 - Contact Informaion: Prof. Johannes Brauer *brauer@nordakademie.de*
-- Website: <http://www.nordakademie.de>
+- Website: [http://www.nordakademie.de](http://www.nordakademie.de)
 
 ## UDK (Berlin)
 - Contact Information: Markus Gaelli gaelli@iam.unibe.ch
-- Website: <http://www.udk-berlin.de>
+- Website: [http://www.udk-berlin.de](http://www.udk-berlin.de)
 
-{{{<hr/>}}---
+<hr/>
 
 ## India
 ## Department of Computer Science & Engineering - Jawaharlal Nehru Technological University
 - Contact Information: Chandra Sekharaiah Kanagaluru chandra_sekharaiah
-- Website: <http://www.jntu.org>
+- Website: [http://www.jntu.org](http://www.jntu.org)
 
 ## Department of Computer Science - Aligarh Muslim University
 - Contact Information: Priti Bala pritibala2001
-- Website: <http://amu.nic.net.in>
+- Website: [http://amu.nic.net.in](http://amu.nic.net.in)
 
 
-{{{<hr/>}}---
+<hr/>
 
 ## Italy
 ## Dipartimento di Ingegneria Elettrica e Elettronica -Universitá di Cagliari
 - Contact information: Prof. Michele Marchesi *michele@diee.unica.it*
-- Website: <http://www.diee.unica.it>
+- Website: [http://www.diee.unica.it](http://www.diee.unica.it)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Roumanie
 ## Faculty for Automation and Computer Science and Engineering Department of Computers - Politehnica University (Timisoara)
 - Contact Information: Tudor Girba *radum@cs.utt.ro*
-- Website: <http://www.cs.utt.ro>
+- Website: [http://www.cs.utt.ro](http://www.cs.utt.ro)
 
 ## Universitatea Tehnica Cluj-Napoca
 - Contact Information: Illinca Ciuoa ilinca_ciupa
-- Website: <http://www.utcluj.ro>
+- Website: [http://www.utcluj.ro](http://www.utcluj.ro)
 
 Valahia University
 - Contact Information: Bizoi Mihai *bizoi@valahia.ro*
-- Website: <http://www.valahia.ro>
+- Website: [http://www.valahia.ro](http://www.valahia.ro)
 
 
-{{{<hr/>}}---
+<hr/>
 
 ## Russia
 ## Tver State University
 - Contact Information: Dennis Schetinin *denis@tversu.ru*
-- Website: <http://university.tversu.ru/>
+- Website: [http://university.tversu.ru/](http://university.tversu.ru/)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Serbia & Montenegro
 ## Department of Mathematics and Informatics - University of Novi Sad
 - Contact Information: Prof. Zoran Budimac *zjb@im.ns.ac.yu*
-- Website: <http://www.im.ns.ac.yu>
+- Website: [http://www.im.ns.ac.yu](http://www.im.ns.ac.yu)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Slovakia
 ## Faculty of Electrical Egnineering and Information Technology - Slovak University of Technology
 - Contact Information: Viliam Solcany *solcany@dcs.elf.stuba.sk*
-- Website: <http://www.dcs.elf.stuba.sk>
+- Website: [http://www.dcs.elf.stuba.sk](http://www.dcs.elf.stuba.sk)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Spain
 ## Escuela Técnica de Informática de Gestión - Universidad de Vigo
@@ -221,34 +221,34 @@ Valahia University
 
 ## University Jaume I (Castellón)
 - Contact Information: German Fabregat *fabregat@icc.uji.es*
-- Website: <http://www.uji.es>
+- Website: [http://www.uji.es](http://www.uji.es)
 
-{{{<hr/>}}---
+<hr/>
 
 ## Switzerland
 ## University of Berne
 - Contact Information: Ducasse Stephane *ducasse@iam.unibe.ch*
-- Website: <http://www.iam.unibe.ch/~scg/>
+- Website: [http://www.iam.unibe.ch/~scg/](http://www.iam.unibe.ch/~scg/)
 
 ## Universitaet St. Gallen
 - Contact Information: Mario Klesse *mario.klesse@unisg.ch*
-- Website: <http://www.iwi.unisg.ch>
+- Website: [http://www.iwi.unisg.ch](http://www.iwi.unisg.ch)
 
-{{{<hr/>}}---
+<hr/>
 
 ## United Kingdom
 ## Department of Creative Techonologies - University of Portsmouth
 - Contact Information: Steve Hand *Steve.Hand@port.ac.uk*
-- Website: <http://www.port.ac.uk/ct>
+- Website: [http://www.port.ac.uk/ct](http://www.port.ac.uk/ct)
 
 ## School of Computing - University of Plymouth
 - Contact Information: Robert Hawley *bob@soc.plym.ac.uk*
-- Website: <http://www.plymouth.ac.uk>
+- Website: [http://www.plymouth.ac.uk](http://www.plymouth.ac.uk)
 
-{{{<hr/>}}---
+<hr/>
 
 ## United States
 ## University of California
 - Contact Information: Stephen Pope *stp@mat.ucsb.edu*
-- Website: <http://www.mat.ucsb.edu>
+- Website: [http://www.mat.ucsb.edu](http://www.mat.ucsb.edu)
 

@@ -5,12 +5,12 @@ title: Video
 # Videos
 ### Online Smalltalk Videos
 
-The ESUG Youtube Channel is <http://www.youtube.com/user/esugboard>
+The ESUG Youtube Channel is [http://www.youtube.com/user/esugboard](http://www.youtube.com/user/esugboard)
 
-- ESUG 2008: <http://www.youtube.com/playlist?list=PL4A297B9019B3884D>
-- ESUG 2009: <http://www.youtube.com/playlist?list=PL74E35D8EC7E756AE>
-- ESUG 2010: <http://www.youtube.com/playlist?list=PL431285A978F581BB>
-- ESUG 2011: <http://www.youtube.com/playlist?list=PL813665D04A2E4C0A>
+- ESUG 2008: [http://www.youtube.com/playlist?list=PL4A297B9019B3884D](http://www.youtube.com/playlist?list=PL4A297B9019B3884D)
+- ESUG 2009: [http://www.youtube.com/playlist?list=PL74E35D8EC7E756AE](http://www.youtube.com/playlist?list=PL74E35D8EC7E756AE)
+- ESUG 2010: [http://www.youtube.com/playlist?list=PL431285A978F581BB](http://www.youtube.com/playlist?list=PL431285A978F581BB)
+- ESUG 2011: [http://www.youtube.com/playlist?list=PL813665D04A2E4C0A](http://www.youtube.com/playlist?list=PL813665D04A2E4C0A)
 
 
 ## Historical Videos
@@ -56,4 +56,4 @@ The ESUG Youtube Channel is <http://www.youtube.com/user/esugboard>
 
 ## Misc
 
-More links to videos: <http://www.smalltalk.org.br/movies/>
+More links to videos: [http://www.smalltalk.org.br/movies/](http://www.smalltalk.org.br/movies/)

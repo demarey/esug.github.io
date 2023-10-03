@@ -6,8 +6,8 @@ title: Camp Smalltalk
 
 The camp Smalltalk will be held prior to the conference: 16th-17th of August starting at 10h in the morning.
 
-The location is here: <http://osm.org/go/0EQHdgtv6--?m=> 16 mill lane.
+The location is here: [http://osm.org/go/0EQHdgtv6--?m=](http://osm.org/go/0EQHdgtv6--?m=) 16 mill lane.
 
 It's a little walk from the accommodation, but not much further than the computer lab, and is conveniently sited for restaurants / pubs for when people want to pop out for lunch. This is a bit harder at the computer lab, because it's out of the town centre.
 
-Room layout: <http://www.opda.cam.ac.uk/images/EastwoodRoom2.jpg>
+Room layout: [http://www.opda.cam.ac.uk/images/EastwoodRoom2.jpg](http://www.opda.cam.ac.uk/images/EastwoodRoom2.jpg)

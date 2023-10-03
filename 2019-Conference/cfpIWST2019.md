@@ -14,7 +14,7 @@ IWST19 — International Workshop on Smalltalk Technologies Cologne, Germany; Au
 
 ## List of Accepted Articles
 
-All the articles can be found at <http://esug.github.io/2019-Conference/articles/2019-08-26-IWST19.zip>.
+All the articles can be found at [http://esug.github.io/2019-Conference/articles/2019-08-26-IWST19.zip](http://esug.github.io/2019-Conference/articles/2019-08-26-IWST19.zip).
 
 ### Session: Domain specific tools
 - Serge Stinckwich and Konrad Hinsen, Building a scientific workbench in Pharo 
@@ -91,9 +91,9 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 
 **Publication**
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at <http://www.sigplan.org/Resources/Author/>. This site also contains links to useful informations on how to write effective submissions. Submission
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at [http://www.sigplan.org/Resources/Author/](http://www.sigplan.org/Resources/Author/). This site also contains links to useful informations on how to write effective submissions. Submission
 
-All submissions must be sent via easychair: <https://easychair.org/conferences/?conf=iwst19>
+All submissions must be sent via easychair: [https://easychair.org/conferences/?conf=iwst19](https://easychair.org/conferences/?conf=iwst19)
 
 
 **PC chairs**

@@ -8,31 +8,31 @@ title: Projects Submitted to the Innovation Technology Awards 2023
 - ''Submitted by'': ""Yann Le Goff (Thales), 
 Pierre Laborde (Thales), 
 Eric Le Pors (Thales)""
-- ''Download'': **<https://github.com/OpenSmock/Pyramid**>
+- ''Download'': **[https://github.com/OpenSmock/Pyramid**](https://github.com/OpenSmock/Pyramid**)
 
 ### 2nd: Soil object oriented database
 ![](file://esugAwards2ndSilverRoundMedal.png)
 - ''Submitted by'': **Norbert Hartl, Marcus Denker**
 - ''Country'': Germany France
-- ''Download'': **<https://github.com/ApptiveGrid/Soil**>
+- ''Download'': **[https://github.com/ApptiveGrid/Soil**](https://github.com/ApptiveGrid/Soil**)
 
 ### 3rd: Two winners tied
 ## The Pharo Debugger and Debugging Tools
 ![](file://esugAwards3rdBronzeRoundMedal.png)
 - ''Submitted by'': **Steven Costiou, Adrien Vanègue, Valentin Bourcier, and the Pharo team**
 - ''Country'': France
-- ''Web'': <https://thepharo.dev/category/debugging/>
+- ''Web'': [https://thepharo.dev/category/debugging/](https://thepharo.dev/category/debugging/)
 
 ## PLC3000 Solution for Teaching Factory Automation
 ![](file://esugAwards3rdBronzeRoundMedal.png)
 - ''Submitted by'': **Noury Bouraqadi**
 - ''Country'': France
-- ''Web'': **<https://plc3000.com/**>
+- ''Web'': **[https://plc3000.com/**](https://plc3000.com/**)
 
 ### Illimani Memory Profiler
 - ''Submitted by'': **Sebastian Jordan Montano**
 - ''Country'': France
-- ''Download'': **<https://github.com/jordanmontt/illimani-memory-profiler**>
+- ''Download'': **[https://github.com/jordanmontt/illimani-memory-profiler**](https://github.com/jordanmontt/illimani-memory-profiler**)
 
 ### Myg Games 
 - ''Submitted by'': **Enzo Demeulenaere**
@@ -43,29 +43,29 @@ Eric Le Pors (Thales)""
 - ''Submitted by'': Offray Luna-Cárdenas (mutabiT / HackBo / Javeriana University), 
 Diego Herrera (mutabiT / HackBo)
 - ''Country'': Colombia
-- ''Web'': <https://mutabit.com/grafoscopio/en.html*, *https://mutabit.com/grafoscopio/> (Spanish)
-- ''Video'': <https://archive.org/details/vokoscreenNG-2023-07-28_14-36-57/socialmetrica1.mp4>
+- ''Web'': [https://mutabit.com/grafoscopio/en.html*, *https://mutabit.com/grafoscopio/](https://mutabit.com/grafoscopio/en.html*, *https://mutabit.com/grafoscopio/) (Spanish)
+- ''Video'': [https://archive.org/details/vokoscreenNG-2023-07-28_14-36-57/socialmetrica1.mp4](https://archive.org/details/vokoscreenNG-2023-07-28_14-36-57/socialmetrica1.mp4)
 
 ### Gnocco (DSL, grammars)
 - ''Submitted by'': "Adrien Mathieu"
 - ''Country'': France
-- ''Download'': **<https://github.com/alamvic/gnocco**>
-- ''Video'': <https://youtu.be/bbNOLinaNEQ>
+- ''Download'': **[https://github.com/alamvic/gnocco**](https://github.com/alamvic/gnocco**)
+- ''Video'': [https://youtu.be/bbNOLinaNEQ](https://youtu.be/bbNOLinaNEQ)
 
 ### Installing GemStone and WebGS
 - ''Submitted by'': "James Foster (GemTalk Systems LLC)"
 - ''Country'': USA
-- ''Video'': <https://youtu.be/ogSrDgNbSRs>
-- ''Web'': <http://alpha-ppa.gemtalksystems.com>
-- ''Download'': <https://github.com/jgfoster/WebGS>
+- ''Video'': [https://youtu.be/ogSrDgNbSRs](https://youtu.be/ogSrDgNbSRs)
+- ''Web'': [http://alpha-ppa.gemtalksystems.com](http://alpha-ppa.gemtalksystems.com)
+- ''Download'': [https://github.com/jgfoster/WebGS](https://github.com/jgfoster/WebGS)
 
 ### DROpal: An inlining Pharo compiler optimising bytecode compiler, inlining, customisation
 - ''Submitted by'': **Nahuel Palumbo (Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL)**
 - ''Country'': France
-- ''Download'': **<https://github.com/Alamvic/druid**>
+- ''Download'': **[https://github.com/Alamvic/druid**](https://github.com/Alamvic/druid**)
 
 ### BioSmalltalk. bioinformatics, sequencing, sequence alignment, dna, genomics, phylogenetics
 - ''Submitted by'': **Hernán Morales (CONICET, Argentina - INRIA, France)**
-- ''Web'': **<https://biosmalltalk.github.io/ **>
-- ''Demo'': **<https://vimeo.com/858366325?share=copy**>
+- ''Web'': **[https://biosmalltalk.github.io/ **](https://biosmalltalk.github.io/ **)
+- ''Demo'': **[https://vimeo.com/858366325?share=copy**](https://vimeo.com/858366325?share=copy**)
 

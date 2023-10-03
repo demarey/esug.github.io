@@ -15,7 +15,7 @@ Vítězné náměstí 4/684
 160 00 Prague 6
 ```
 
-<http://www.daphotel.cz/index.php?/english>
+[http://www.daphotel.cz/index.php?/english](http://www.daphotel.cz/index.php?/english)
 
 Please make the reservation through email: rezervace@vkp.vlrz.cz and use the code ESUG2016. Unfortunately only limited number of rooms are available in this hotel.
 The rates are: single room 40 €, double room single use 48 €, double room 70 € plus local fees (15 CZK/person/day).
@@ -29,7 +29,7 @@ Národní obrany 33
 160 00 Prague 6
 ```
 
-<http://hotelmeda.cz/en.html>
+[http://hotelmeda.cz/en.html](http://hotelmeda.cz/en.html)
 
 Please make the reservation through email: dominik@hotelmeda.cz and use the code ESUG2016.
 
@@ -45,7 +45,7 @@ Evropská 370/15
 160 41 Prague 6-Dejvice
 ```
 
-<http://www.viennahouse.com/en/diplomat-prague/the-hotel/overview.html>
+[http://www.viennahouse.com/en/diplomat-prague/the-hotel/overview.html](http://www.viennahouse.com/en/diplomat-prague/the-hotel/overview.html)
 
 Please make the reservation through [this link](https://gc.synxis.com/rez.aspx?Chain=14420&Dest=CZ&start=availresults&arrive=8%2f21%2f2016&depart=8%2f28%2f2016&adult=1&child=0&group=ESUG) or enter code ESUG.
 
@@ -59,7 +59,7 @@ Koulova 15
 160 45 Prague 6
 ```
 
-<http://internationalprague.cz/en/>
+[http://internationalprague.cz/en/](http://internationalprague.cz/en/)
 
 Please make the reservation through [this link](https://fideliosuite8webconnect.com/CZ-Hotel-International-Praha/Inquiry.aspx?culture=Cs-CZ) and enter promo code ESUG.
 
@@ -69,5 +69,5 @@ The rates are: double room single use 63 €, double room 63 €
 
 Cheaper alternative to Hotels:
 
-- <http://studenthostel.cz/celorocni-hostely/hostel-bubenec>
-- <http://studenthostel.cz/prazdninove-hostely/hostel-dejvicka>
+- [http://studenthostel.cz/celorocni-hostely/hostel-bubenec](http://studenthostel.cz/celorocni-hostely/hostel-bubenec)
+- [http://studenthostel.cz/prazdninove-hostely/hostel-dejvicka](http://studenthostel.cz/prazdninove-hostely/hostel-dejvicka)

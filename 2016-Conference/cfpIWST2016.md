@@ -55,12 +55,12 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 
 **Publication**
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at <http://www.sigplan.org/Resources/Author/>. This site also contains links to useful informations on how to write effective submissions. Submission
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at [http://www.sigplan.org/Resources/Author/](http://www.sigplan.org/Resources/Author/). This site also contains links to useful informations on how to write effective submissions. Submission
 
 
 **Submission**
 
-All submissions must be sent via easychair: <https://easychair.org/conferences/?conf=iwst20160>
+All submissions must be sent via easychair: [https://easychair.org/conferences/?conf=iwst20160](https://easychair.org/conferences/?conf=iwst20160)
 
 
 **Program chairs**

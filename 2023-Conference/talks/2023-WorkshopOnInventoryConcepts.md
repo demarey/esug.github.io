@@ -13,5 +13,5 @@ During this workshop participants will
 - gather some concepts based on their teaching experience on tests and OOD. 
 
 **Bio:**
-Stéphane is one of the authors of the Pharo Mooc <http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org>.
+Stéphane is one of the authors of the Pharo Mooc [http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org](http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org).
 Guillermo is an expert on OOD. Pablo has been teaching for several years object-oriented design. 

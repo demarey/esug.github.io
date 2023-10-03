@@ -25,11 +25,11 @@ Journal articles and news reports about Smalltalk. [more...](press.html)
 
 ESUG is Collecting Material related to Smalltalk:
 
-<http://esug.org/data/>
+[http://esug.org/data/](http://esug.org/data/)
 
 (Here you can find the ESUG Logo in High res,too)
 
 
 ## User Groups
 
-Here is a list of local Smalltalk user groups: <http://www.world.st/usergroups>
+Here is a list of local Smalltalk user groups: [http://www.world.st/usergroups](http://www.world.st/usergroups)

@@ -14,7 +14,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria - University of Brest
 - Country: France
-- Download url: <http://smalltalkhub.com/#!/~AlainPlantec/Bloc>
+- Download url: [http://smalltalkhub.com/#!/~AlainPlantec/Bloc](http://smalltalkhub.com/#!/~AlainPlantec/Bloc)
 - Licence: MIT
 
 
@@ -26,8 +26,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation:  Czech Technical University, Faculty of Information Technology
 - Country: Czech Republic
-- Download url: <https://ci.inria.fr/pharo-contribution/job/DynaCASE/lastSuccessfulBuild/PHARO=40,VERSION=development,VM=vm/artifact/>
-- Demo url: <http://youtu.be/slIcmccsgyo>
+- Download url: [https://ci.inria.fr/pharo-contribution/job/DynaCASE/lastSuccessfulBuild/PHARO=40,VERSION=development,VM=vm/artifact/](https://ci.inria.fr/pharo-contribution/job/DynaCASE/lastSuccessfulBuild/PHARO=40,VERSION=development,VM=vm/artifact/)
+- Demo url: [http://youtu.be/slIcmccsgyo](http://youtu.be/slIcmccsgyo)
 - Keywords: modeling, Pharo, uml, borm
 - Licence: MIT
 
@@ -39,8 +39,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: RMoD
 - Country: France
-- Download url: <http://smalltalkhub.com/#!/~Pharo/OSWindow>
-- Demo url: <https://www.youtube.com/watch?v=eNrbH8A5nyY>
+- Download url: [http://smalltalkhub.com/#!/~Pharo/OSWindow](http://smalltalkhub.com/#!/~Pharo/OSWindow)
+- Demo url: [https://www.youtube.com/watch?v=eNrbH8A5nyY](https://www.youtube.com/watch?v=eNrbH8A5nyY)
 - Licence: MIT
 
 
@@ -51,7 +51,7 @@ By alphabetical order
 - Smalltalk Dialect: VisualWorks
 - Affiliation: Georg Heeg eK
 - Country: Germany
-- Download url: <http://www.heeg.de/>
+- Download url: [http://www.heeg.de/](http://www.heeg.de/)
 - Keywords: museum; exhibition; audio media presentation; Raspberry pi
 - Licence: commercial
 
@@ -63,7 +63,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria
 - Country: France
-- Download url: <http://smalltalkhub.com/#!/~ThomasHeniart/GriotteCodeReview>
+- Download url: [http://smalltalkhub.com/#!/~ThomasHeniart/GriotteCodeReview](http://smalltalkhub.com/#!/~ThomasHeniart/GriotteCodeReview)
 - Licence: MIT
 
 
@@ -74,8 +74,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: (a) University of Bern, (b) tudorgirba.com, (c) University of Chile
 - Country: Switzerland
-- Download url:  <http://gt.moosetechnology.org/>
-- Demo url: <http://www.slideshare.net/girba/gt-spotter>
+- Download url:  [http://gt.moosetechnology.org/](http://gt.moosetechnology.org/)
+- Demo url: [http://www.slideshare.net/girba/gt-spotter](http://www.slideshare.net/girba/gt-spotter)
 - Keywords: search, navigation, IDEs, integration
 - Licence: MIT
 
@@ -88,8 +88,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Pleiad and RyCh labs, DCC, Universidad de Chile
 - Country: Chile
-- Download url: <http://pleiad.cl/lrp>
-- Demo url: <http://pleiad.cl/lrp>
+- Download url: [http://pleiad.cl/lrp](http://pleiad.cl/lrp)
+- Demo url: [http://pleiad.cl/lrp](http://pleiad.cl/lrp)
 - Keywords: Live programming, robotics
 - Licence: MIT
 
@@ -99,8 +99,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Ecole des Mines de Douai
 - Country: France
-- Download url: <http://smalltalkhub.com/#!/~noury/JavaScriptBridge>
-- Demo url: <http://car.mines-douai.fr/pharojs>
+- Download url: [http://smalltalkhub.com/#!/~noury/JavaScriptBridge](http://smalltalkhub.com/#!/~noury/JavaScriptBridge)
+- Demo url: [http://car.mines-douai.fr/pharojs](http://car.mines-douai.fr/pharojs)
 - Keywords: Web development, Mobile development, JavaScript
 - Licence: MIT
 
@@ -111,8 +111,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria-RMOD
 - Country: France
-- Download url: <http://www.smalltalkhub.com/#!/~Pier/Pillar>
-- Demo url: <https://www.youtube.com/watch?v=MfqW2rTH5C8>
+- Download url: [http://www.smalltalkhub.com/#!/~Pier/Pillar](http://www.smalltalkhub.com/#!/~Pier/Pillar)
+- Demo url: [https://www.youtube.com/watch?v=MfqW2rTH5C8](https://www.youtube.com/watch?v=MfqW2rTH5C8)
 - Keywords: Pillar Documentation Write
 - Licence: MIT
 
@@ -133,7 +133,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Ivan Franko National University of Lviv, RMoD (Inria)
 - Country: Ukraine
-- Download url: <http://smalltalkhub.com/#!/~MarkRizun/RewriteTool/>
-- Demo url: <http://myfuncoding.blogspot.com/>
+- Download url: [http://smalltalkhub.com/#!/~MarkRizun/RewriteTool/](http://smalltalkhub.com/#!/~MarkRizun/RewriteTool/)
+- Demo url: [http://myfuncoding.blogspot.com/](http://myfuncoding.blogspot.com/)
 - Keywords: code transformation, ast, rewritng, refactoring
 - Licence: MIT

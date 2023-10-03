@@ -2,4 +2,4 @@
 
 The first Smalltalk meeting in Lübeck/Germany will happen Feb 5/2018:
 
-More information: <https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/>
+More information: [https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/](https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/)

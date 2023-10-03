@@ -26,8 +26,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: ObjectProfile
 - Country: Chile
-- Download url: <http://smalltalkhub.com/#!/~azazael/inti>
-- Demo url: <https://www.youtube.com/watch?v=hLZumpaS8lE&list=UUx7V811wz1RQwo7NAfgR0BQ>
+- Download url: [http://smalltalkhub.com/#!/~azazael/inti](http://smalltalkhub.com/#!/~azazael/inti)
+- Demo url: [https://www.youtube.com/watch?v=hLZumpaS8lE&list=UUx7V811wz1RQwo7NAfgR0BQ](https://www.youtube.com/watch?v=hLZumpaS8lE&list=UUx7V811wz1RQwo7NAfgR0BQ)
 - Keywords: Inti, Sunburst, MessageTally, GTInpector, Roassal2
 - Licence: MIT
 
@@ -39,8 +39,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Ecole des Mines de Douai
 - Country: France
-- Download url: <http://www.jetstorm.info/>
-- Demo url: <https://vimeo.com/103126982>
+- Download url: [http://www.jetstorm.info/](http://www.jetstorm.info/)
+- Demo url: [https://vimeo.com/103126982](https://vimeo.com/103126982)
 - Keywords: Lego Minstorms Pharo Phratch
 - Licence: MIT
 
@@ -51,8 +51,8 @@ By alphabetical order
 - Smalltalk Dialect: VA Smalltalk
 - Affiliation: objektfabrik Joachim Tuchel
 - Country: Germany
-- Download url: <http://www.kontolino.de/>
-- Demo url: <https://kontolino.de/?registrieren>
+- Download url: [http://www.kontolino.de/](http://www.kontolino.de/)
+- Demo url: [https://kontolino.de/?registrieren](https://kontolino.de/?registrieren)
 - Keywords: Accounting, saas, Small and Medium businesses, tax reporting
 - Licence: commercial
 
@@ -63,8 +63,8 @@ By alphabetical order
 - Smalltalk Dialect: Visualworks
 - Affiliation: AFC Europe
 - Country: France
-- Download url: <http://fencingfox.com/esug/saintgeorges.zip>
-- Demo url: <http://www.fencingfox.com/welcome* and enter competition number 1003. Also *http://fencingfox.com/esug/Manual.pdf* and *http://www.fencingfox.com/esug/demo.html>
+- Download url: [http://fencingfox.com/esug/saintgeorges.zip](http://fencingfox.com/esug/saintgeorges.zip)
+- Demo url: [http://www.fencingfox.com/welcome* and enter competition number 1003. Also *http://fencingfox.com/esug/Manual.pdf* and *http://www.fencingfox.com/esug/demo.html](http://www.fencingfox.com/welcome* and enter competition number 1003. Also *http://fencingfox.com/esug/Manual.pdf* and *http://www.fencingfox.com/esug/demo.html)
 - Keywords: visualworks
 - Licence: Commercial
 
@@ -75,7 +75,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Object Profile
 - Country: Chile
-- Download url:  <http://smalltalkhub.com/#!/~DanielAvivNotario/Sherlook>
+- Download url:  [http://smalltalkhub.com/#!/~DanielAvivNotario/Sherlook](http://smalltalkhub.com/#!/~DanielAvivNotario/Sherlook)
 
 
 ## Spy2
@@ -85,8 +85,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Universidad de Chile, Object Profile
 - Country: Chile
-- Download url: <http://smalltalkhub.com/#!/~ObjectProfile/S2py>
-- Demo url: <http://pleiad.cl/lrp>
+- Download url: [http://smalltalkhub.com/#!/~ObjectProfile/S2py](http://smalltalkhub.com/#!/~ObjectProfile/S2py)
+- Demo url: [http://pleiad.cl/lrp](http://pleiad.cl/lrp)
 - Keywords: Profiling, Visualization
 - Licence: MIT
 
@@ -97,8 +97,8 @@ By alphabetical order
 - Smalltalk Dialect: Smalltalk/X
 - Affiliation: eXept Software AG & SWING Research Group, Czech Technical University in Prague
 - Country: Czech Republic
-- Download url: <https://swing.fit.cvut.cz/projects/stx-libjava/wiki>
-- Demo url: <https://www.youtube.com/watch?v=p3J554BNEz8>
+- Download url: [https://swing.fit.cvut.cz/projects/stx-libjava/wiki](https://swing.fit.cvut.cz/projects/stx-libjava/wiki)
+- Demo url: [https://www.youtube.com/watch?v=p3J554BNEz8](https://www.youtube.com/watch?v=p3J554BNEz8)
 - Keywords: vm, ide, java
 - Licence: Free
 
@@ -108,7 +108,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: RMOD team
 - Country: France
-- Download url: <http://rmod.inria.fr/web/software/telescope>
+- Download url: [http://rmod.inria.fr/web/software/telescope](http://rmod.inria.fr/web/software/telescope)
 - Keywords: pharo visualization
 - Licence: Free
 
@@ -120,8 +120,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Object Profile
 - Country: Chile
-- Download url: <http://www.smalltalkhub.com/#!/~ronsaldo/Woden>
-- Demo url: <http://youtu.be/1Nze9tnwYxY>
+- Download url: [http://www.smalltalkhub.com/#!/~ronsaldo/Woden](http://www.smalltalkhub.com/#!/~ronsaldo/Woden)
+- Demo url: [http://youtu.be/1Nze9tnwYxY](http://youtu.be/1Nze9tnwYxY)
 - Keywords: 3d opencl graphics roassal roassal3d performance
 - Licence: MIT
 

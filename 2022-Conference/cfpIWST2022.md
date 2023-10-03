@@ -21,7 +21,7 @@ IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Au
 - "How Fast is AI in Pharo? Benchmarking Linear Regression", Oleksandr Zaitsev, Sebastian Jordan Montaño and Stéphane Ducasse
 - "Can We Automatically Generate Class Comments in Pharo?", Pooja Rani, Alexandre Bergel, Lino Hess, Timo Kehrer and Oscar Nierstrasz
 
-%All the articles can be found at ... %<http://esug.github.io/2022-Conference/articles/>.
+%All the articles can be found at ... %[http://esug.github.io/2022-Conference/articles/](http://esug.github.io/2022-Conference/articles/).
 
 ### Sessions
 - [Conference program is available](https://esug.github.io/2022-Conference/agenda/agenda-workshop.html).
@@ -78,8 +78,8 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 Contributions must be written in English, adhere to the [CEUR Style single column>https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk*, and be submitted through *EasyChair](https://easychair.org/conferences/?conf=iwst22).
 All submissions must be original work and must not have been previously published or being under review elsewhere.
 
-% Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at <http://www.sigplan.org/Resources/Author/>. This site also contains links to useful informations on how to write effective submissions. Submission
-% All submissions must be sent via easychair: <https://easychair.org/conferences/?conf=iwst22>
+% Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at [http://www.sigplan.org/Resources/Author/](http://www.sigplan.org/Resources/Author/). This site also contains links to useful informations on how to write effective submissions. Submission
+% All submissions must be sent via easychair: [https://easychair.org/conferences/?conf=iwst22](https://easychair.org/conferences/?conf=iwst22)
 
 
 **Program chairs**

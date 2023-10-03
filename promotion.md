@@ -44,5 +44,5 @@ The following sums up the main actions ESUG performed in the past. [more...](pas
 
 ## Google GSOC
 
-ESUG is coordinating Google Summer of Code for the Smalltalk Community. For more, see <http://gsoc2013.esug.org>
+ESUG is coordinating Google Summer of Code for the Smalltalk Community. For more, see [http://gsoc2013.esug.org](http://gsoc2013.esug.org)
 

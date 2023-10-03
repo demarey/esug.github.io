@@ -21,7 +21,7 @@ title: Venue
 
 ```
 
-<http://www.centropastoralepaolovi.it/>
+[http://www.centropastoralepaolovi.it/](http://www.centropastoralepaolovi.it/)
 
 This is for **Monday and Tuesday only**. This place is where the esug board and student volunteers are hosted.
 

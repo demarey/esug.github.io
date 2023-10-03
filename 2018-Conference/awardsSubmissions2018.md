@@ -9,8 +9,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Pablo Tesone Esteban Lorenzano Nicolas Passerini**
 - ''Affiliation'': **Inria / CRIStAL**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/pharo-vcs/iceberg**>
-- ''Demo Url'': **<https://www.youtube.com/watch?v=PK2yCu2rWCc&t=80s**>
+- ''Download Url'': **[https://github.com/pharo-vcs/iceberg**](https://github.com/pharo-vcs/iceberg**)
+- ''Demo Url'': **[https://www.youtube.com/watch?v=PK2yCu2rWCc&t=80s**](https://www.youtube.com/watch?v=PK2yCu2rWCc&t=80s**)
 - ''Keywords'': **pharo git vcs scm**
 - ''Licence'': **MIT**
 
@@ -21,8 +21,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Bert Freudenberg**
 - ''Affiliation'': **Black Page Digital**
 - ''Country'': **Netherlands**
-- ''Download Url'': **<https://caffeine.js.org**>
-- ''Demo Url'': **<https://caffeine.js.org**>
+- ''Download Url'': **[https://caffeine.js.org**](https://caffeine.js.org**)
+- ''Demo Url'': **[https://caffeine.js.org**](https://caffeine.js.org**)
 - ''Keywords'': **livecoding web platform SqueakJS javascript Snowglobe remote messaging remote graphics NodeJS Morphic A-Frame speech recognition 3D virtual reality CSS HTML5 MIDI remote debugging mobile animated wireframes**
 - ''Licence'': **MIT**
 
@@ -34,8 +34,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Luc Fabresse, Pablo Estefo, Sang Le, Noury Bouraqadi**
 - ''Affiliation'': **IMT Lille Douai**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/CARMinesDouai/pharos/wiki**>
-- ''Demo Url'': **<https://youtu.be/AOJ-23YpqGY**>
+- ''Download Url'': **[https://github.com/CARMinesDouai/pharos/wiki**](https://github.com/CARMinesDouai/pharos/wiki**)
+- ''Demo Url'': **[https://youtu.be/AOJ-23YpqGY**](https://youtu.be/AOJ-23YpqGY**)
 - ''Keywords'': **Robotics, middleware**
 - ''Licence'': **MIT**
 
@@ -44,7 +44,7 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Santiago Bragagnolo**
 - ''Affiliation'': **INRIA**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/sbragagnolo/uqll**>
+- ''Download Url'': **[https://github.com/sbragagnolo/uqll**](https://github.com/sbragagnolo/uqll**)
 - ''Keywords'': **Blockchain SQL database**
 
 ### Moose2Model
@@ -53,8 +53,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **The initial coding is based on a demo coding provided by Alexandré Bergel**
 - ''Affiliation'': **CubeServ**
 - ''Country'': **Germany**
-- ''Download Url'': **<http://www.moose2model.org**>
-- ''Demo Url'': **<https://youtu.be/k8RkDwlXKmg**>
+- ''Download Url'': **[http://www.moose2model.org**](http://www.moose2model.org**)
+- ''Demo Url'': **[https://youtu.be/k8RkDwlXKmg**](https://youtu.be/k8RkDwlXKmg**)
 - ''Keywords'': **Software Exploration**
 - ''Licence'': **MIT**
 
@@ -63,8 +63,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Tomohiro Oda**
 - ''Affiliation'': **Software Research Associates Inc.**
 - ''Country'': **Japan**
-- ''Download Url'': **<https://github.com/tomooda/HoneyGinger/**>
-- ''Demo Url'': **<https://youtu.be/eYuhlixBaPI**>
+- ''Download Url'': **[https://github.com/tomooda/HoneyGinger/**](https://github.com/tomooda/HoneyGinger/**)
+- ''Demo Url'': **[https://youtu.be/eYuhlixBaPI**](https://youtu.be/eYuhlixBaPI**)
 - ''Keywords'': **Pharo Fluid Dynamics Visualization Interactivity**
 - ''Licence'': **The MIT License**
 
@@ -73,8 +73,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Damien Pollet**
 - ''Affiliation'': **Inria**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/cdlm/clap-st**>
-- ''Demo Url'': **<https://www.youtube.com/watch?v=VjnVZR4FMcQ**>
+- ''Download Url'': **[https://github.com/cdlm/clap-st**](https://github.com/cdlm/clap-st**)
+- ''Demo Url'': **[https://www.youtube.com/watch?v=VjnVZR4FMcQ**](https://www.youtube.com/watch?v=VjnVZR4FMcQ**)
 - ''Keywords'': **command line argument parser**
 - ''Licence'': **MIT**
 
@@ -84,8 +84,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Mercap Development Team**
 - ''Affiliation'': **Mercap Software**
 - ''Country'': **Argentina**
-- ''Download Url'': **<https://www.mercapabbaco.com**>
-- ''Demo Url'': **<https://www.mercapsoftware.com/video/abbaco_en.mp4**>
+- ''Download Url'': **[https://www.mercapabbaco.com**](https://www.mercapabbaco.com**)
+- ''Demo Url'': **[https://www.mercapsoftware.com/video/abbaco_en.mp4**](https://www.mercapsoftware.com/video/abbaco_en.mp4**)
 - ''Keywords'': **Finance Bonds Calculator**
 - ''Licence'': **SaaS (Propietary)**
 
@@ -95,8 +95,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Alexandre Bergel**
 - ''Affiliation'': **ObjectProfile**
 - ''Country'': **Chile**
-- ''Download Url'': **<https://github.com/ObjectProfile/KerasWrapper**>
-- ''Demo Url'': **<https://youtu.be/mlp_1mbBILs**>
+- ''Download Url'': **[https://github.com/ObjectProfile/KerasWrapper**](https://github.com/ObjectProfile/KerasWrapper**)
+- ''Demo Url'': **[https://youtu.be/mlp_1mbBILs**](https://youtu.be/mlp_1mbBILs**)
 - ''Keywords'': **Neural Networks Machine Learning Keras Python Bridge**
 - ''Licence'': **MIT**
 
@@ -105,7 +105,7 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Jan Vrany**
 - ''Affiliation'': **Jan Solutions**
 - ''Country'': **United Kingdom**
-- ''Download Url'': **<https://swing.fit.cvut.cz/projects/stx-jv**>
+- ''Download Url'': **[https://swing.fit.cvut.cz/projects/stx-jv**](https://swing.fit.cvut.cz/projects/stx-jv**)
 - ''Keywords'': **virtual machine debugger ffi**
 - ''Licence'': **Creative Commons Attribution-NonCommercial 4.0**
 
@@ -115,8 +115,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Clotilde Toullec Mickael Kerboeuf Alain Plantec**
 - ''Affiliation'': **University of Western Brittany - LabSTICC**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/ClotildeToullec/Collectors**>
-- ''Demo Url'': **<https://github.com/ClotildeToullec/Collectors/wiki**>
+- ''Download Url'': **[https://github.com/ClotildeToullec/Collectors**](https://github.com/ClotildeToullec/Collectors**)
+- ''Demo Url'': **[https://github.com/ClotildeToullec/Collectors/wiki**](https://github.com/ClotildeToullec/Collectors/wiki**)
 - ''Keywords'': **Object-Centric-Debugging**
 - ''Licence'': **MIT**
 
@@ -126,8 +126,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Maxi Tabacman**
 - ''Affiliation'': **Buenos Aires Smalltalk / Mercap**
 - ''Country'': **Argentina**
-- ''Download Url'': **<https://github.com/ba-st/Willow**>
-- ''Demo Url'': **<https://drive.google.com/open?id=1LUWgNuUJN7sA0ahSIxGjz2QUOQabBqB4**>
+- ''Download Url'': **[https://github.com/ba-st/Willow**](https://github.com/ba-st/Willow**)
+- ''Demo Url'': **[https://drive.google.com/open?id=1LUWgNuUJN7sA0ahSIxGjz2QUOQabBqB4**](https://drive.google.com/open?id=1LUWgNuUJN7sA0ahSIxGjz2QUOQabBqB4**)
 - ''Keywords'': **Web AJAX Web-Components**
 - ''Licence'': **MIT**
 
@@ -137,16 +137,16 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Other Authors'': **Tobias Zagorni Marc André Freiheit Martin Stamm Stephan Lutz Wilhelm Friedemann Jakob Braun**
 - ''Affiliation'': **Hasso Plattner Institute**
 - ''Country'': **Germany**
-- ''Download Url'': **<https://github.com/GsSqueak/GsSqueak**>
-- ''Demo Url'': **<https://www.youtube.com/watch?v=TLOmrb4Ty14&feature=youtu.be**>
+- ''Download Url'': **[https://github.com/GsSqueak/GsSqueak**](https://github.com/GsSqueak/GsSqueak**)
+- ''Demo Url'': **[https://www.youtube.com/watch?v=TLOmrb4Ty14&feature=youtu.be**](https://www.youtube.com/watch?v=TLOmrb4Ty14&feature=youtu.be**)
 
 ### LiteratureResearcher
 - ''Smalltalk Dialect'': **Pharo**
 - ''Submitter'': **Manuel Leuenberger**
 - ''Affiliation'': **University of Bern SCG**
 - ''Country'': **Switzerland**
-- ''Download Url'': **<https://github.com/maenu/LiteratureResearcher**>
-- ''Demo Url'': **<https://www.youtube.com/watch?v=EcK3Pt_WnEw**>
+- ''Download Url'': **[https://github.com/maenu/LiteratureResearcher**](https://github.com/maenu/LiteratureResearcher**)
+- ''Demo Url'': **[https://www.youtube.com/watch?v=EcK3Pt_WnEw**](https://www.youtube.com/watch?v=EcK3Pt_WnEw**)
 - ''Keywords'': **literature research**
 - ''Licence'': **MIT**
 
@@ -161,7 +161,7 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Asbath BIYALOU-SAMA**
 - ''Affiliation'': **RMoD**
 - ''Country'': **France**
-- ''Download Url'': **<https://github.com/pillar-markup/pillar**>
+- ''Download Url'': **[https://github.com/pillar-markup/pillar**](https://github.com/pillar-markup/pillar**)
 - ''Keywords'': **Pillar, GitHub, Travis**
 
 ### Woden Procedural Game Engine
@@ -169,8 +169,8 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Submitter'': **Ronie Salgado**
 - ''Affiliation'': **University of Chile**
 - ''Country'': **Chile**
-- ''Download Url'': **<https://github.com/ronsaldo/woden**>
-- ''Demo Url'': **<https://www.youtube.com/watch?v=k9GIuKstIYI**>
+- ''Download Url'': **[https://github.com/ronsaldo/woden**](https://github.com/ronsaldo/woden**)
+- ''Demo Url'': **[https://www.youtube.com/watch?v=k9GIuKstIYI**](https://www.youtube.com/watch?v=k9GIuKstIYI**)
 - ''Keywords'': **pharo woden 3d graphics procedural conten**
 - ''Licence'': **MIT**
 
@@ -181,7 +181,7 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Country'': **Ukraine**
 - ''Smalltalk dialect'': **Pharo**
 - ''Licence'': **MIT**
-- ''Project URL'': **<https://github.com/myroslavarm/Experimental-Completion**>
+- ''Project URL'': **[https://github.com/myroslavarm/Experimental-Completion**](https://github.com/myroslavarm/Experimental-Completion**)
 
 ### PharoLauncher
 - ''Developers'': **Christophe Demarey, Damien Cassou**
@@ -189,4 +189,4 @@ title: Projects Submitted to the Innovation Technology Awards 2018
 - ''Country'': **France**
 - ''Smalltalk dialect'': **Pharo**
 - ''Licence'': **MIT**
-- ''Project URL'': **<https://github.com/pharo-project/pharo-launcher**>
+- ''Project URL'': **[https://github.com/pharo-project/pharo-launcher**](https://github.com/pharo-project/pharo-launcher**)

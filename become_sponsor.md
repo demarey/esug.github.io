@@ -14,7 +14,7 @@ By sponsoring ESUG, your company will be associated with the leading OO communit
 
 There are different types of sponsor packages:
 
-- ** Silver ESUG Sponsor:** By paying € 525 per year, the logo of your company/association is displayed during the ESUG conference, and you are also recognized as a sponsor on our ESUG website <http://www.esug.org>. You are entitled to mention that you are an ESUG sponsor, and to use the ESUG logo in that context.
+- ** Silver ESUG Sponsor:** By paying € 525 per year, the logo of your company/association is displayed during the ESUG conference, and you are also recognized as a sponsor on our ESUG website [http://www.esug.org](http://www.esug.org). You are entitled to mention that you are an ESUG sponsor, and to use the ESUG logo in that context.
 
 - ** Gold ESUG Sponsor:** By paying € 1050 per year, you get all of the above, and ESUG correspondence and distributions (CD, Documentation) will feature your logo. You also get a 10% fee reduction on the ESUG events for up to 5 people of your organisation.
 

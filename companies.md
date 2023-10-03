@@ -60,7 +60,7 @@ To reference your company in this page, please send fill out [this form](https:/
 - Laboratoire Pasteur-CERBA
 - [Pharo consortium](http://consortium.pharo.org)
 - [Ontologos Corp](http://www.ontologos-corp.com/)
-- Oxiane: <http://www.oxiane.com>
+- Oxiane: [http://www.oxiane.com](http://www.oxiane.com)
 - [Sodifrance](http://www.sodifrance.fr/)
 - [Sopragroup](http://www.sopragroup.com/)
 
@@ -69,7 +69,7 @@ To reference your company in this page, please send fill out [this form](https:/
 - [ApptiveGrid GmbH](https://www.apptivegrid.de)
 - [Andrena objects](http://www.andrena.de/)
 - [ATLAS.ti Scientific Software Development GmbH](http://www.atlasti.com/)
-- Collogia <http://www.collphir.de* *http://www.collogia.de>
+- Collogia [http://www.collphir.de* *http://www.collogia.de](http://www.collphir.de* *http://www.collogia.de)
 - [EWE TEL GmbH](http://www.ewetel.de/)
 - [eXept Sofware](http://www.exept.de/)
 - [Georg Heeg](http://www.heeg.de/)
@@ -120,7 +120,7 @@ To reference your company in this page, please send fill out [this form](https:/
 
 
 ## Russia
-- Sakhalin Diocese of the Russian Orthodox Church <http://pravosakh.ru>. 
+- Sakhalin Diocese of the Russian Orthodox Church [http://pravosakh.ru](http://pravosakh.ru). 
 - [PharoCloud](https://www.pharocloud.com)
 
 

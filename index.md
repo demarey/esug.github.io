@@ -1,6 +1,6 @@
-{{{
+
 <div class="row">
-<div class="col-8">}}---
+<div class="col-8">
 
 # Welcome to ESUG
 
@@ -16,11 +16,11 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
  [The international ESUG 23 Conference ]( 2023-Conference/conf2023.html) will be held in Lyon (France) from 28th August to 1st September
 - About the [city of Lyon](2023-Conference/city2023.html)
 - Student volunteer [info](2023-Conference/callForStudents2023.html)
-- [Register here!>http://registration.esug.org* and you may pay *HelloAsso](https://www.helloasso.com/associations/esug/evenements/esug-2023)
+- [Register here](http://registration.esug.org) and you may pay [HelloAsso](https://www.helloasso.com/associations/esug/evenements/esug-2023)
 - Gastronomic food!
 - The conference will be at IUT Lumiere - Bâtiment 1, IUT Lumière Lyon 2 – 160 boulevard de l’Université - 69676 BRON CEDEX
-- Super nice city [Wikipedia>https://en.wikipedia.org/wiki/Lyon* *Trip advisor](https://www.tripadvisor.com/Attractions-g187265-Activities-Lyon_Rhone_Auvergne_Rhone_Alpes.html)
-- [International Workshop on Smalltalk Technologies Program>https://esug.github.io/2023-Conference/agenda/agenda-workshop.html* - Check the articles: *PDFs](https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/iwst) 
+- Super nice city [Wikipedia](https://en.wikipedia.org/wiki/Lyon) [Trip advisor](https://www.tripadvisor.com/Attractions-g187265-Activities-Lyon_Rhone_Auvergne_Rhone_Alpes.html)
+- [International Workshop on Smalltalk Technologies Program](https://esug.github.io/2023-Conference/agenda/agenda-workshop.html) - Check the articles: [PDFs](https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/iwst) 
 - It will be a great conference! Check the [Conference Program](https://esug.github.io/2023-Conference/agenda/agenda.html)
 
 ## Past Events
@@ -28,15 +28,15 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 #### ESUG 2022 
 
 ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
-- [ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program](https://esug.github.io/2022-Conference/agenda/agenda.html).
-- [International workshop on Smalltalk Technologies (IWST 2022) ]( 2022-Conference/conf2022.html).
+- [ESUG 22](2022-Conference/conf2022.pillar) - Check the [program](https://esug.github.io/2022-Conference/agenda/agenda.html).
+- [International workshop on Smalltalk Technologies (IWST 2022)](2022-Conference/conf2022.html).
 - [Innovation Technology Awards - 17th Edition](2022-Conference/awardsSubmissions.html)
 - Slides in the [ESUG Archive](http://esug.org/data/ESUG2022/)
 - Slides on [Slideshare](https://www.slideshare.net/esug/presentations)
 - Videos on Youtube 
--- [Main Conference](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt)
--- [Show us your Project](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq)
-- IWST Proceedings at <https://ceur-ws.org/Vol-3325/>
+  - [Main Conference](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt)
+  - [Show us your Project](https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq)
+- IWST Proceedings at [https://ceur-ws.org/Vol-3325/](https://ceur-ws.org/Vol-3325/)
 
 
 #### ESUG19: Videos and Slides
@@ -51,13 +51,12 @@ The Slides and Videos for ESUG19 are finally online:
 
 
 
-{{{</div><br/><br/><br/>}}---
+</div><br/><br/><br/>
 
 
-{{{
 <div class="col-4 boxes">
-}}}[Support ESUG actions! Become a Sponsor!](become_sponsor.html)
-{{{<center>
+[Support ESUG actions! Become a Sponsor!](become_sponsor.html)
+<center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="esug-info@esug.org">
@@ -69,9 +68,7 @@ The Slides and Videos for ESUG19 are finally online:
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form>
 <br>
-}}---
 
-{{{
 <b>Platinum Sponsors</b><br>
 <a href="http://gemtalksystems.com"><img src="images/sponsors/sponsor-gemtalksystems.png"  width="300" class="img-responsive" /></a><br>
 <a href="http://www.instantiations.com"><img src="images/sponsors/sponsor-instantiations.png"  width="320" class="img-responsive" /></a><br>
@@ -93,4 +90,3 @@ The Slides and Videos for ESUG19 are finally online:
 
 </div>
 </div>
-}}---

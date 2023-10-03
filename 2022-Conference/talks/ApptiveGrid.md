@@ -6,7 +6,7 @@ Norbert Hartl Norbert Hartl <norbert@2denker.de>
 
 **Abstract:**
 Digitise your processes today. With ApptiveGrid you create customised solutions in the cloud.
-This presentation will present the applications and its architecture <https://www.apptivegrid.de>. 
+This presentation will present the applications and its architecture [https://www.apptivegrid.de](https://www.apptivegrid.de). 
 
 
 **Bio:**

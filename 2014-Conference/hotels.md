@@ -20,23 +20,23 @@ The data below is not a complete list of hotels other than the university accomm
 
 Arundel House is fairly close (20-25 minutes walk, 5 minutes bike):
 
-<http://www.arundelhousehotels.co.uk/cambridge/>
+[http://www.arundelhousehotels.co.uk/cambridge/](http://www.arundelhousehotels.co.uk/cambridge/)
 
 There is a YourSpace apartment on Chesterton Road that is a similar distance and may be of interest:
 
-<http://www.yourspaceapartments.com>
+[http://www.yourspaceapartments.com](http://www.yourspaceapartments.com)
 
 MSR Cambridge has a list of recommended hotels, but they've now moved to the other end of town, so the locations are not optimal:
 
-<http://research.microsoft.com/en-us/labs/cambridge/accommodations.aspx>
+[http://research.microsoft.com/en-us/labs/cambridge/accommodations.aspx](http://research.microsoft.com/en-us/labs/cambridge/accommodations.aspx)
 
 Hotel Felix is very nice, but a bit out of town. It is not bad for getting to the Computer Lab (conference center) on a bike:
 
-<http://www.hotelfelix.co.uk>
+[http://www.hotelfelix.co.uk](http://www.hotelfelix.co.uk)
 
 Doubletree by Hilton is about 25 minutes walk (5-10 minute cycle) from the Computer Lab (conference center), but very convenient for town (including the conference dinner).
 
 The Hotel du Vin is very nice, but a little bit further away from the Computer Lab (conference center):
 
-<https://www.hotelduvin.com/locations/cambridge/>
+[https://www.hotelduvin.com/locations/cambridge/](https://www.hotelduvin.com/locations/cambridge/)
 

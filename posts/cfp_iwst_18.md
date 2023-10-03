@@ -39,11 +39,11 @@ To encourage the submission of high-quality papers, the IWST organizing committe
 
 ## Publication
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at <http://www.acm.org/sigs/sigplan/authorInformation.htm>. This site also contains links to useful informations on how to write effective submissions.
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at [http://www.acm.org/sigs/sigplan/authorInformation.htm](http://www.acm.org/sigs/sigplan/authorInformation.htm). This site also contains links to useful informations on how to write effective submissions.
 
 
 ## Submission
-All submissions must be sent via easychair: <https://easychair.org/conferences/?conf=iwst18>
+All submissions must be sent via easychair: [https://easychair.org/conferences/?conf=iwst18](https://easychair.org/conferences/?conf=iwst18)
 
 
 ## Program chairs

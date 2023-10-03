@@ -23,7 +23,7 @@ More info in: [special issue](https://www.sciencedirect.com/journal/journal-of-c
 
 %!! List of Accepted Articles
 
-%All the articles can be found at ... %<http://esug.github.io/2022-Conference/articles/>.
+%All the articles can be found at ... %[http://esug.github.io/2022-Conference/articles/](http://esug.github.io/2022-Conference/articles/).
 
 %!!! Session: Title
 %-paper

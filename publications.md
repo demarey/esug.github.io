@@ -20,7 +20,7 @@ It is normally limited to three sponsoring per research people.
 - Matteo Marra, Guillermo Polito, Elisa Gonzalez Boix, "Framework-Aware Debugging with Stack Tailoring", 16th Dynamic Languages Symposium (DLS) at SPLASH 202, [conference website](https://conf.researchr.org/home/dls-2020)
 ### Sponsored articles for 2019
 - Juraj Kubelka, Romain Robbes, Alexandre Bergel, "Live Programming and Software Evolution: Questions during a Programming Change Task", 27th IEEE/ACM International Conference on Program Comprehension 2019, [conference website](https://conf.researchr.org/event/icpc-2019/icpc-2019-technical-research-live-programming-and-software-evolution-questions-during-a-programming-change-task)
-- Matteo Marra, Guillermo Polito, Elisa Gonzalez Boix, "Out-of-place debugging: A debugging architecture to reduce debugging interference", The Art, Science and Engineering of Programming Vol. 3(2) , 2018, <https://programming-journal.org/2019/3/3/>
+- Matteo Marra, Guillermo Polito, Elisa Gonzalez Boix, "Out-of-place debugging: A debugging architecture to reduce debugging interference", The Art, Science and Engineering of Programming Vol. 3(2) , 2018, [https://programming-journal.org/2019/3/3/](https://programming-journal.org/2019/3/3/)
 
 ### Sponsored articles  for 2016
 - Ignacio Fernandez, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Alejandro Infante and Tudor Gîrba, "Glyph-based software component identification", 2016 IEEE 24th International Conference on Program Comprehension (ICPC), p.1-10, 2016, [https://doi.org/10.1109/ICPC.2016.7503713](https://doi.org/10.1109/ICPC.2016.7503713)

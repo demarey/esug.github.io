@@ -25,4 +25,4 @@ Duties include handling registration as people arrive at the conference, filling
 The students will be hosted at the dormitory of the Universita' Degli Studi di Cagliari 
 Via S. Giorgio, 12/3, nel polo Aresu, 09124 Cagliari CA, Italia
 
-<https://www.unica.it/unica/it/ateneo_s04_ss06.page>
+[https://www.unica.it/unica/it/ateneo_s04_ss06.page](https://www.unica.it/unica/it/ateneo_s04_ss06.page)

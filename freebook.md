@@ -8,7 +8,7 @@ title: FreeBook
 
 ### Current Program: New Smalltalk books
 
-- ESUG sponsored Squeak by Example (<http://www.squeakbyexample.org>) and Andres Valloud Books (Hashing in Smalltalk: theory and practice / A mentoring cours on Smalltalk) at ESUG 2009.
+- ESUG sponsored Squeak by Example ([http://www.squeakbyexample.org](http://www.squeakbyexample.org)) and Andres Valloud Books (Hashing in Smalltalk: theory and practice / A mentoring cours on Smalltalk) at ESUG 2009.
 - ESUG supports Smalltalk by offering copies of Squeak by Example
 
 ## List of people who received free copies of Squeak by Example
@@ -22,35 +22,35 @@ title: FreeBook
 - Pascal Bouvier, HEI, Lille - France
 - Christian Denker, Germany
 - 30 books for the Smalltalk conference in Argentina
-- #Fabian Florotto
-- #Colin Putney
-- #Lautaro Fernandez
-- #Fernando Dodino
-- #Nicolas Buttarelli
-- #Guillermo Gonzalez
-- #Luis Alberto Garmendia
-- #Fernando Olivero
-- #Esteban Maringolo
-- #Marcos Andres Sobral
-- #Mariano Matayoshi
-- #Miguel Angel Gutierrez
-- #Mirco Bombieri
-- #Gaston Dall'Oglio
-- #Sergio Polizzi
-- #Gabriel Cotelli
-- #Adrian Soma
-- #Diego Geffmer
-- #Claudio Campos
-- #Gabriel Brunstein
-- #Ignacio Vivona
-- #Carlos Enrique Rodriguez
-- #Agustina Herrera
-- #German Boccoleri
-- #Pablo Revert
-- #Guido Vilariño
-- #Donal Zmick
-- #Mauro Pezzarini
-- #Sebastian Blanco
-- #Maria Laura Gronda
+  - Fabian Florotto
+  - Colin Putney
+  - Lautaro Fernandez
+  - Fernando Dodino
+  - Nicolas Buttarelli
+  - Guillermo Gonzalez
+  - Luis Alberto Garmendia
+  - Fernando Olivero
+  - Esteban Maringolo
+  - Marcos Andres Sobral
+  - Mariano Matayoshi
+  - Miguel Angel Gutierrez
+  - Mirco Bombieri
+  - Gaston Dall'Oglio
+  - Sergio Polizzi
+  - Gabriel Cotelli
+  - Adrian Soma
+  - Diego Geffmer
+  - Claudio Campos
+  - Gabriel Brunstein
+  - Ignacio Vivona
+  - Carlos Enrique Rodriguez
+  - Agustina Herrera
+  - German Boccoleri
+  - Pablo Revert
+  - Guido Vilariño
+  - Donal Zmick
+  - Mauro Pezzarini
+  - Sebastian Blanco
+  - Maria Laura Gronda
 
 [Previous actions](previous_actions.html)

@@ -1,6 +1,6 @@
 ## VA Smalltalk News
 
-VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff <https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809>
+VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff [https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809](https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809)
 
 Dear VA Smalltalk User,
 

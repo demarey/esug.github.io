@@ -6,7 +6,7 @@ title: SightSeeing
 
 Brescia is a touristic place close to Verona and Lago di Garda.
 
-- <http://www.bresciatourism.it/en>
+- [http://www.bresciatourism.it/en](http://www.bresciatourism.it/en)
 
 If you want to do some sighseeing in Brescia here are some touristic guides.
 
@@ -15,4 +15,4 @@ AGTA
 tel 3349035700
 ```
 
-infoagta@libero.it <http://www.bresciaguide.it*, *http://www.bresciastory.it*, *http://www.guideturisticheilmosaico.it>
+infoagta@libero.it [http://www.bresciaguide.it*, *http://www.bresciastory.it*, *http://www.guideturisticheilmosaico.it](http://www.bresciaguide.it*, *http://www.bresciastory.it*, *http://www.guideturisticheilmosaico.it)

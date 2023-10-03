@@ -10,8 +10,8 @@ title: Projects Submitted to the Innovation Technology Awards 2022
 - ''Submitted by'': **Maximilian Ignacio Willembrinck Santander, Steven Costiou, Anne Etien, Stéphane Ducasse**
 - ''Affiliation'': Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
 - ''Country'': France
-- ''Download'': **<https://github.com/Willembrinck/ESUG-2022-TTQs**>
-- ''Demo'': **<https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing**>
+- ''Download'': **[https://github.com/Willembrinck/ESUG-2022-TTQs**](https://github.com/Willembrinck/ESUG-2022-TTQs**)
+- ''Demo'': **[https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing**](https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing**)
 
 ### 2nd IoT with Pharo and Riot OS
 ![](file://esugAwards2ndSilverRoundMedal.png)
@@ -19,7 +19,7 @@ title: Projects Submitted to the Innovation Technology Awards 2022
 - ''Submitted by'': **Chia Ling Bragagnolo Angela**
 - ''Affiliation'': Univ. Lille
 - ''Country'': France
-- ''Download'': <https://youtu.be/yFcoatBqMYU>
+- ''Download'': [https://youtu.be/yFcoatBqMYU](https://youtu.be/yFcoatBqMYU)
 
 ### 3rd Pharo Language Server
 ![](file://esugAwards3rdBronzeRoundMedal.png)
@@ -27,8 +27,8 @@ title: Projects Submitted to the Innovation Technology Awards 2022
 - ''Submitted by'': **Benoît Verhaeghe**
 - ''Affiliation'': Berger-Levrault
 - ''Country'': France
-- ''Download'': <https://github.com/badetitou/Pharo-LanguageServer>
-- ''Demo'': <https://marketplace.visualstudio.com/items?itemName=badetitou.pharo-language-server>
+- ''Download'': [https://github.com/badetitou/Pharo-LanguageServer](https://github.com/badetitou/Pharo-LanguageServer)
+- ''Demo'': [https://marketplace.visualstudio.com/items?itemName=badetitou.pharo-language-server](https://marketplace.visualstudio.com/items?itemName=badetitou.pharo-language-server)
 
 
 ## Other Entries by Submission Order
@@ -38,41 +38,41 @@ title: Projects Submitted to the Innovation Technology Awards 2022
 - ''Submitted by'': **Guille Amaral**
 - ''Affiliation'': Personal project
 - ''Country'': Argentina
-- ''Download'': <https://github.com/guillermoamaral/>
-- ''Demo'': <https://websideserver.azurewebsites.net/>
+- ''Download'': [https://github.com/guillermoamaral/](https://github.com/guillermoamaral/)
+- ''Demo'': [https://websideserver.azurewebsites.net/](https://websideserver.azurewebsites.net/)
 
 ### Zag Smalltalk
 - ''Keywords'': **Smalltalk and pluggable Dynamic Language runtime**
 - ''Submitted by'': **Dave Mason**
 - ''Affiliation'': Toronto Metropolitan University
 - ''Country'': Canada
-- ''Download'': <https://github.com/dvmason/Zag-Smalltalk>
+- ''Download'': [https://github.com/dvmason/Zag-Smalltalk](https://github.com/dvmason/Zag-Smalltalk)
 
 ### Polyphemus
 - ''Keywords'': **VM, Image, visualisation, image recover**
 - ''Submitted by'': **Soufyane Labsari, Pierre Misse-Chanabier, Théo Rogliano**
 - ''Affiliation'':Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
 - ''Country'': France
-- ''Download'': <https://filesender.renater.fr/?s=download&token=342cc563-fc5e-4d01-91c3-50d6015e39c0>
+- ''Download'': [https://filesender.renater.fr/?s=download&token=342cc563-fc5e-4d01-91c3-50d6015e39c0](https://filesender.renater.fr/?s=download&token=342cc563-fc5e-4d01-91c3-50d6015e39c0)
 
 ### Microdown 
 - ''Keywords'': **document browser**
 - ''Submitted by'': **Kasper Østerbye & Stéphane Ducasse**
 - ''Affiliation'': Independent
 - ''Country'': Denmark
-- ''Demo'': <https://www.youtube.com/watch?v=tAFskQ1zVmA>
+- ''Demo'': [https://www.youtube.com/watch?v=tAFskQ1zVmA](https://www.youtube.com/watch?v=tAFskQ1zVmA)
 
 ### PLC3000
 - ''Keywords'': **Factory Automation, Simulation, Teaching, Education, Programming**
 - ''Submitted by'': **Noury Bouraqadi**
 - ''Affiliation'': Nootrix
 - ''Country'': France
-- ''Demo'': <https://plc3000.com>
+- ''Demo'': [https://plc3000.com](https://plc3000.com)
 
 ### Pharo-AI
 - ''Keywords'': **AI, Machine Learning**
 - ''Submitted by'': **Oleksandr Zaitsev and Sebastian Jordan**
 - ''Affiliation'': Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
 - ''Country'': France
-- ''Download'': <https://github.com/pharo-ai/wiki>
+- ''Download'': [https://github.com/pharo-ai/wiki](https://github.com/pharo-ai/wiki)
 

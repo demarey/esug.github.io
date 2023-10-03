@@ -4,7 +4,7 @@ Noury Bouraqadi (noury.bouraqadi@imt-nord-europe.fr)
 Dave Mason (dmason@torontomu.ca)
 
 **Abstract:**
-PharoJS (https://pharojs.org) is an open source (MIT License) infrastructure (framework ![]( middleware ) tools) that allows developing and testing in Pharo applications that ultimately run on a JavaScript (JS) interpreter. 
+PharoJS (https://pharojs.org) is an open source (MIT License) infrastructure (framework + middleware + tools) that allows developing and testing in Pharo applications that ultimately run on a JavaScript (JS) interpreter. 
 This talk is a tutorial to get new PharoJS users started. We provide a step-by-step guide starting from the development in Pharo, to the deployment on JS interpreter. We show how to integrate a third party JS library and reuse JS classes. 
 
 **Bio:**

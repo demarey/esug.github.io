@@ -20,7 +20,7 @@ He also spent one year in Lam Research, CA, USA, as an industrial Postdoc to cre
 usability of the company software. 
 He joined Lifeware in March 2019 where one of his roles is to support the migration to Pharo of the Lifeware tools.
 Vincent is also an active open source developer in the Pharo community.
-More information is available here: <https://vincentblondeau.github.io/>
+More information is available here: [https://vincentblondeau.github.io/](https://vincentblondeau.github.io/)
 
 
 Fabiana Canipa:

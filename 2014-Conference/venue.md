@@ -18,7 +18,7 @@ University of Cambridge,
 Cambridge CB3 0FD
 ```
 
-Check the [Maps>maps2014.pillar*. <http://osm.org/go/0EQSAZ3hi--?m=* (>Building Photo](https://www.google.fr/maps/place/University![](of)Cambridge![](Computer)Laboratory/@52.211041,0.091061,3a,75y,86.81h,90t/data=!3m4!1e1!3m2!1sgECJH8M9JDC_f7L657pEsQ!2e0!4m2!3m1!1s0x0:0xabf8227343e684c7!6m1!1e1))
+Check the [Maps](maps2014.pillar). [http://osm.org/go/0EQSAZ3hi--?m=](http://osm.org/go/0EQSAZ3hi--?m=) ([Building Photo](https://www.google.fr/maps/place/University+of+Cambridge+Computer+Laboratory/@52.211041,0.091061,3a,75y,86.81h,90t/data=!3m4!1e1!3m2!1sgECJH8M9JDC_f7L657pEsQ!2e0!4m2!3m1!1s0x0:0xabf8227343e684c7!6m1!1e1))
 
 The accommodation that we have reserved is in Trinity Hall's Wychfield site, just down the road: Check the [Maps](maps2014.html).
 
@@ -26,4 +26,4 @@ Hotels are [here](hotels.html)
 
 ## How to get the computer lab
 
-<http://www.cl.cam.ac.uk/directions/directions.html>
+[http://www.cl.cam.ac.uk/directions/directions.html](http://www.cl.cam.ac.uk/directions/directions.html)

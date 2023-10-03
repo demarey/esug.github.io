@@ -11,7 +11,7 @@ The talk will also give a glimpse of some recent applications developed using Ph
 Noury Bouraqadi is a full professor in Software Engineering and Robotics at IMT Lille Douai (France).
 His research aims at easing development of complex software using dynamic languages, in the context of distributed systems.
 He specifically focuses on mobile autonomous robots and multi-robot systems.
-More at: <http://car.imt-lille-douai.fr/noury>
+More at: [http://car.imt-lille-douai.fr/noury](http://car.imt-lille-douai.fr/noury)
 
 Dave Mason is a full professor at Ryerson University (Canada).
 His is interested in:
@@ -19,4 +19,4 @@ His is interested in:
 - up-front optimizing Java compiler called OptiJava
 - issues relating to software reliability engineering, particularly Probabilistic Program Execution using Smalltalk,
 - programming languages, particularly pure object-oriented languages like Smalltalk, Self and Ruby and mostly-functional languages like Scheme and Clojure,
-More at: <http://sarg.ryerson.ca/dmason/>
+More at: [http://sarg.ryerson.ca/dmason/](http://sarg.ryerson.ca/dmason/)

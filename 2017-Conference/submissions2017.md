@@ -13,7 +13,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: France
-- Download url: <https://github.com/dionisiydk/Calypso>
+- Download url: [https://github.com/dionisiydk/Calypso](https://github.com/dionisiydk/Calypso)
 - Keywords: Pharo, IDE
 - Licence: MIT
 
@@ -36,7 +36,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria / Inria Tech
 - Country: France
-- Download url: <https://github.com/sbragagnolo/Fog>
+- Download url: [https://github.com/sbragagnolo/Fog](https://github.com/sbragagnolo/Fog)
 - Keywords: Ethereum, Cryptocurrencies, visualization, Query, language analysis, language implementation
 - Licence: MIT
 
@@ -47,8 +47,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: University of Chile
 - Country: Chile
-- Download url: <https://github.com/ronsaldo/lowtalk>
-- Demo url: <https://youtu.be/XdpiYVBAtpo>
+- Download url: [https://github.com/ronsaldo/lowtalk](https://github.com/ronsaldo/lowtalk)
+- Demo url: [https://youtu.be/XdpiYVBAtpo](https://youtu.be/XdpiYVBAtpo)
 - Keywords: compiler machine code slang
 - Licence: MIT
 
@@ -59,7 +59,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: *feenk.com*
 - Country: Switzerland
-- Download and video url: <https://github.com/feenkcom/gtoolkit>
+- Download and video url: [https://github.com/feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit)
 - Keywords: Pharo, IDE
 - Licence: MIT
 
@@ -70,7 +70,7 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: Russia
-- Download url:  <https://github.com/pharo-iot/PharoThings>
+- Download url:  [https://github.com/pharo-iot/PharoThings](https://github.com/pharo-iot/PharoThings)
 - Keywords: Pharo, IoT, Raspberry, IDE
 - Licence: MIT
 
@@ -82,7 +82,7 @@ By alphabetical order
 - Smalltalk Dialect:
 - Affiliation: IRD
 - Country: France
-- Download url: <https://github.com/PolyMathOrg/PolyMath>
+- Download url: [https://github.com/PolyMathOrg/PolyMath](https://github.com/PolyMathOrg/PolyMath)
 - Keywords: math, data science
 - Licence: MIT
 
@@ -92,8 +92,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: SCG, University of Bern
 - Country: Switzerland
-- Download url: <https://github.com/maenu/Randy>
-- Demo url: <https://youtu.be/DzU6UQeICn8>
+- Download url: [https://github.com/maenu/Randy](https://github.com/maenu/Randy)
+- Demo url: [https://youtu.be/DzU6UQeICn8](https://youtu.be/DzU6UQeICn8)
 - Keywords: pharo smalltalkhub inter-project dependencies ecosystem
 - Licence: MIT
 
@@ -102,8 +102,8 @@ By alphabetical order
 - Smalltalk Dialect: Pharo
 - Affiliation: Inria Rmod
 - Country: France
-- Download url: <https://github.com/badetitou/SmartTest>
-- Demo url: <https://youtu.be/5gYvvQX84vs>
+- Download url: [https://github.com/badetitou/SmartTest](https://github.com/badetitou/SmartTest)
+- Demo url: [https://youtu.be/5gYvvQX84vs](https://youtu.be/5gYvvQX84vs)
 - Keywords: Pharo, Test, Test-Automation
 - Licence: MIT
 

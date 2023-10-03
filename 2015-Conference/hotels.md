@@ -16,7 +16,7 @@ Via Gezio Calini 30
 Tel 0303773511 – Fax 03048229
 ```
 
-segreteria@paolovi.it, <http://www.centropastoralepaolovi.it/> Single Standard room from €45, Single Comfort room from €60
+segreteria@paolovi.it, [http://www.centropastoralepaolovi.it/](http://www.centropastoralepaolovi.it/) Single Standard room from €45, Single Comfort room from €60
 
 Student volunteers and the ESUG board will be located to this place.
 
@@ -28,7 +28,7 @@ Student volunteers and the ESUG board will be located to this place.
  Tel. 030399037 - Fax 0303701331
 ```
 
-booking@hotelmaster.net, <http://www.hotelmaster.net> Single room €75,00
+booking@hotelmaster.net, [http://www.hotelmaster.net](http://www.hotelmaster.net) Single room €75,00
 
 **NH Brescia**
 
@@ -38,7 +38,7 @@ booking@hotelmaster.net, <http://www.hotelmaster.net> Single room €75,00
  Tel 03044221 - Fax 03044224
 ```
 
-nhbrescia@nh-hotels.com, <http://www.nh-hotels.com> Single room €70,00
+nhbrescia@nh-hotels.com, [http://www.nh-hotels.com](http://www.nh-hotels.com) Single room €70,00
 
 
 **Albergo Orologio**
@@ -49,7 +49,7 @@ nhbrescia@nh-hotels.com, <http://www.nh-hotels.com> Single room €70,00
  Tel 0303755411 - Fax 0302404805
 ```
 
-info@albergoorologio.it, <http://www.albergoorologio.it> Single room €70,00
+info@albergoorologio.it, [http://www.albergoorologio.it](http://www.albergoorologio.it) Single room €70,00
 
 
 **UNA Hotel Brescia**
@@ -60,7 +60,7 @@ Viale Europa, 45
 tel. ![](39 030 2018011 - fax )39 030 2009741 
 ```
 
-una.brescia@unahotels.it, <http://www.unahotelbrescia.com> Classic single room from €75
+una.brescia@unahotels.it, [http://www.unahotelbrescia.com](http://www.unahotelbrescia.com) Classic single room from €75
 
 
 **Hotel Ambasciatori**
@@ -71,5 +71,5 @@ una.brescia@unahotels.it, <http://www.unahotelbrescia.com> Classic single room f
  Tel 030399114 - Fax 030381883
 ```
 
-info@ambasciatori.net, <http://www.ambasciatori.net> Single superior room €86,00
+info@ambasciatori.net, [http://www.ambasciatori.net](http://www.ambasciatori.net) Single superior room €86,00
 
