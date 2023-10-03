@@ -13,9 +13,9 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 - Organize a yearly conference and sponsor other Smalltalk conferences
 
 ## ESUG 2023 @ Lyon France 
- [The international ESUG 23 Conference ]( 2023-Conference/conf2023.pillar) will be held in Lyon (France) from 28th August to 1st September
-- About the [city of Lyon](2023-Conference/city2023.pillar)
-- Student volunteer [info](2023-Conference/callForStudents2023.pillar)
+ [The international ESUG 23 Conference ]( 2023-Conference/conf2023.html) will be held in Lyon (France) from 28th August to 1st September
+- About the [city of Lyon](2023-Conference/city2023.html)
+- Student volunteer [info](2023-Conference/callForStudents2023.html)
 - [Register here!>http://registration.esug.org* and you may pay *HelloAsso](https://www.helloasso.com/associations/esug/evenements/esug-2023)
 - Gastronomic food!
 - The conference will be at IUT Lumiere - Bâtiment 1, IUT Lumière Lyon 2 – 160 boulevard de l’Université - 69676 BRON CEDEX
@@ -29,8 +29,8 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 
 ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
 - [ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program](https://esug.github.io/2022-Conference/agenda/agenda.html).
-- [International workshop on Smalltalk Technologies (IWST 2022) ]( 2022-Conference/conf2022.pillar).
-- [Innovation Technology Awards - 17th Edition](2022-Conference/awardsSubmissions.pillar)
+- [International workshop on Smalltalk Technologies (IWST 2022) ]( 2022-Conference/conf2022.html).
+- [Innovation Technology Awards - 17th Edition](2022-Conference/awardsSubmissions.html)
 - Slides in the [ESUG Archive](http://esug.org/data/ESUG2022/)
 - Slides on [Slideshare](https://www.slideshare.net/esug/presentations)
 - Videos on Youtube 
@@ -56,7 +56,7 @@ The Slides and Videos for ESUG19 are finally online:
 
 {{{
 <div class="col-4 boxes">
-}}}[Support ESUG actions! Become a Sponsor!](become_sponsor.pillar)
+}}}[Support ESUG actions! Become a Sponsor!](become_sponsor.html)
 {{{<center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">

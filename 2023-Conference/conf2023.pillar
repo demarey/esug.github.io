@@ -9,12 +9,12 @@ It will be a great event! [Check out the program](https://esug.github.io/2023-Co
 
 ### Conference calls
 
-- [Call for Presentations](call2023.pillar)
-- [Call for Student Volunteers](callForStudents2023.pillar)
-- [IWST23](cfpIWST2023.pillar)
-- [Innovation award call](awardsCall2023.pillar)
-- [Camp Smalltalk](camp2023.pillar)
-- [Conference Venue and trip information](city2023.pillar)
+- [Call for Presentations](call2023.html)
+- [Call for Student Volunteers](callForStudents2023.html)
+- [IWST23](cfpIWST2023.html)
+- [Innovation award call](awardsCall2023.html)
+- [Camp Smalltalk](camp2023.html)
+- [Conference Venue and trip information](city2023.html)
 
 ### Conference Venue
 The conference will be held at the IUT Lumiere. 
@@ -55,7 +55,7 @@ Orientational conference prices from ESUG 2022 in Euros:
 
 ### International Workshop on Smalltalk Technologies IWST
 ESUG hosts also an international workshop.
-- Call for Paper: [IWST23 CFP](cfpIWST2023.pillar)
+- Call for Paper: [IWST23 CFP](cfpIWST2023.html)
 - The workshop proceedings will be published in [CEUR-WS Proceedings](https://ceur-ws.org/)
 
 %{{{
@@ -74,8 +74,8 @@ ESUG hosts also an international workshop.
 ### Innovation Technology Awards - 18th Edition
 Share your Smalltalk related code with the community, and enter the contest to win up to 500 Euros! All you have to do is submit your project along with  a 3-5 min videos and post it to youtube!
 
-- [2023 Innovation award call](awardsCall2023.pillar).
-- [list of submitted Projects: Winners Inside!](awardsSubmissions.pillar).
+- [2023 Innovation award call](awardsCall2023.html).
+- [list of submitted Projects: Winners Inside!](awardsSubmissions.html).
 - Dates:
 -- Demos: Monday, 28.8.2023, late afternoon.
 -- Result announcement ceremony: Wednesday, 30.8.2023, during the social event dinner.
@@ -83,7 +83,7 @@ Share your Smalltalk related code with the community, and enter the contest to w
 
 ### Student volunteer call
 ESUG offers hosting and conference access to 15 students.
-See [Call for Student Volunteers](callForStudents2023.pillar)
+See [Call for Student Volunteers](callForStudents2023.html)
 
 ### Conference live
 
