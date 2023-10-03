@@ -1,11 +1,11 @@
 ---
-title: Conferences 
+title: Conferences
 ---
 
 # Conferences
 
-+file://images/Conferences.jpg|width=70|label=conferences+
-![conferences](./images/Conferences.jpg "conferences")
+![](file://images/Conferences.jpg "width=70&label=conferences")
+
 
 Since 1993, the International Smalltalk Conference is organised by ESUG every year, with tutorials, workshops and demonstrations on various subjects. Inactive links below on past summer schools will gradually be activated.
 
@@ -21,7 +21,7 @@ If you would like to organise the ESUG event please send all [required informati
 - [26th International Smalltalk Joint Conference 2018](2018-Conference/conf2018.html) in Cagliari, Italia
 - [25th International Smalltalk Joint Conference 2017](2017-Conference/conf2017.html) in Maribor, Slovenia
 - [24th International Smalltalk Joint Conference 2016](2016-Conference/conf2016.html) in Prague, Czech Republic
-- [23th International Smalltalk Joint Conference 2015](2015-Conference/conf2015.html) in Brescia, Italy [report](http://www.esug.org/data/ReportsFromNiallRoss/ESUG2015Report-NiallRoss.pdf)
+- [23th International Smalltalk Joint Conference 2015>2015-Conference/conf2015.pillar* in Brescia, Italy (*report](http://www.esug.org/data/ReportsFromNiallRoss/ESUG2015Report-NiallRoss.pdf))
 - [22th International Smalltalk Joint Conference 2014](2014-Conference/conf2014.html) in Cambridge, England.
 - 21th International Smalltalk Joint Conference 2013 in Annecy, France.
 - 20th International Smalltalk Joint Conference 2012 in Gent, Belgium. (report)
@@ -45,4 +45,6 @@ If you would like to organise the ESUG event please send all [required informati
 - Second Summer School 1994 in Cork, Ireland
 - First Summer School 1993 in Brest, France
 
-<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;output=embed"](</iframe><br /](<small](Display <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;source=embed" style="color:#0000FF;text-align:left">ESUG conferences</a> on a bigger map</small></p>
+{{{html:
+<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;output=embed"></iframe><br /><small>Display <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;source=embed" style="color:#0000FF;text-align:left">ESUG conferences</a> on a bigger map</small></p>
+}}---
