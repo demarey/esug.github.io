@@ -2,12 +2,15 @@
 - defaultTalkLength: 30
 - defaultRoom: Amphi
 
-## 2023 July 8th
+## 2024 July 8th
 ### 9:15
 
 #### Welcome
 - speaker: S. Ducasse
-- length: 45
+- length: 15
+#### Strengthening our community
+- speaker: G. Rakic
+- length: 15
 #### Mutalk, Who watches the tests? 
 - speaker: G. Polito
 #### Virtual Reality in Pharo using WODEN Engine: Challenges and Demo
@@ -108,7 +111,7 @@
 - speaker: E. Stel
 #### WebST: Web Components with PharoJS
 - speaker: N. Bouraqadi
-#### WebST:Detecting and preventing Pharo vulnerabilities
+#### Detecting and preventing Pharo vulnerabilities
 - speaker: I. Sayar, S. Costiou
 #### break
 - label: Social Event
